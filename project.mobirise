@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Eastern Shore Democrats Newsletter",
-    "currentPage": "elected.html",
+    "currentPage": "meetinginfo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -672,7 +672,7 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     Accomack County Committee</b></p><p><span style=\"font-size: 1rem;\"><b>Where:</b>&nbsp;</span><span style=\"font-size: 1rem;\">Eastern Shore Chamber of Commerce Building, 19056 Parkway Road, Melfa, VA 23410</span></p><p><span style=\"font-size: 1rem;\"><b>When:</b>&nbsp;Normally on the First Wednesday of each Month @ 6 pm.</span></p><p><span style=\"font-size: 1rem;\"><b>Website:</b> https://sites.google.com/site/esvadems/accomack-county<br></span><br></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     Northampton County Committee</b></p><p>Where: Northampton Social Services Building, 5265 The Hornes, Eastville, VA 23347</p><p><b>When:</b> Normally on the First Tuesday of each Month @ 7 pm.</p><p><b>Website:</b> https://sites.google.com/site/esvadems/northampton-county</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     Accomack County Committee</b></p><p><span style=\"font-size: 1rem;\"><b>Where:</b>&nbsp;&nbsp;</span><span style=\"font-size: 1rem;\">Eastern Shore Chamber of Commerce Building, 19056 Parkway Road, Melfa, VA 23410</span></p><p><span style=\"font-size: 1rem;\"><b>When:</b>&nbsp; Normally on the First Wednesday of each Month @ 6 pm.</span></p><p><span style=\"font-size: 1rem;\"><b>Website:</b>&nbsp; https://sites.google.com/site/esvadems/accomack-county<br></span><br></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     Northampton County Committee</b></p><p><b>Where:</b>&nbsp; Northampton Social Services Building, 5265 The Hornes, Eastville, VA 23347</p><p><b>When:</b>&nbsp; Normally on the First Tuesday of each Month @ 7 pm.</p><p><b>Website:</b>&nbsp; https://sites.google.com/site/esvadems/northampton-county</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWFfv8u20a",
           "_protectedParams": [],
           "_global": false,
@@ -1100,7 +1100,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#232323"
             }
           },
           "_name": "content4",
