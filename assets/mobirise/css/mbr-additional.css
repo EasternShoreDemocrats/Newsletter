@@ -1388,7 +1388,7 @@ body {
   background-color: #ffffff;
 }
 .cid-qWAQLagET5 .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-qWPNemuAMz {
   padding-top: 30px;
@@ -1408,6 +1408,9 @@ body {
 .cid-qWPNemuAMz .mbr-text {
   color: #767676;
 }
+.cid-qWPNemuAMz .mbr-text B {
+  color: #232323;
+}
 .cid-qWAQMHCJC8 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1415,6 +1418,12 @@ body {
 }
 .cid-qWAQMHCJC8 .mbr-text {
   color: #767676;
+}
+.cid-qWAQMHCJC8 .mbr-text P {
+  color: #232323;
+}
+.cid-qWAQMHCJC8 .mbr-text B {
+  color: #232323;
 }
 .cid-qWQik2MhW0 {
   padding-top: 30px;
@@ -1433,6 +1442,9 @@ body {
 }
 .cid-qWQik2MhW0 .mbr-text {
   color: #767676;
+}
+.cid-qWQik2MhW0 .mbr-text B {
+  color: #232323;
 }
 .cid-qWQiehhdCy {
   padding-top: 30px;
@@ -1467,25 +1479,64 @@ body {
   border-radius: 50%;
   content: '✓';
 }
-.cid-qWPOYLahTx {
+.cid-qWQiehhdCy .mbr-text UL {
+  color: #232323;
+}
+.cid-qWR6KaIFjq {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #f9f9f9;
 }
-.cid-qWPOYLahTx h4 {
+.cid-qWR6KaIFjq h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
 }
-.cid-qWPOYLahTx p {
+.cid-qWR6KaIFjq p {
   color: #767676;
   text-align: left;
 }
-.cid-qWPOYLahTx .card-box {
+.cid-qWR6KaIFjq .card-box {
   padding-top: 2rem;
 }
-.cid-qWPOYLahTx .card-wrapper {
+.cid-qWR6KaIFjq .card-wrapper {
   height: 100%;
+}
+.cid-qWR6KaIFjq .card-title B {
+  color: #232323;
+}
+.cid-qWRgQhEWHs {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #ffffff;
+}
+.cid-qWRgQhEWHs .image-block {
+  margin: auto;
+}
+.cid-qWRgQhEWHs figcaption {
+  position: relative;
+}
+.cid-qWRgQhEWHs figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qWRgQhEWHs .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qWRgWpvVp6 {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qWRgWpvVp6 .mbr-text,
+.cid-qWRgWpvVp6 blockquote {
+  color: #767676;
+}
+.cid-qWRgWpvVp6 .mbr-text B {
+  color: #232323;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
