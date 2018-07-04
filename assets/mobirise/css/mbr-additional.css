@@ -42,7 +42,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Kaushan Script', handwriting;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
@@ -1427,7 +1427,7 @@ body {
 }
 .cid-qWQik2MhW0 {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -1442,6 +1442,7 @@ body {
 }
 .cid-qWQik2MhW0 .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-qWQik2MhW0 .mbr-text B {
   color: #232323;
