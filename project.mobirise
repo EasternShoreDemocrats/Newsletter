@@ -6,7 +6,7 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#073b4c",
+        "primaryColor": "#149dcc",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -58,7 +58,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 35,
+    "uniqCompNum": 45,
     "versionPublish": "4.7.10",
     "favicon": "@PROJECT_PATH@/assets/images/dnc-donkey-logo-512x512-128x128.png",
     "noImageResize": "",
@@ -95,7 +95,7 @@
             }
           },
           "_name": "header2",
-          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/democrat-donkey-2000x1950-2-2000x1950.png\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    Eastern Shore Democrats</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\"><b>Newsletter</b></h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Welcome to the Accomack and Northampton Counties Newsletter</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-primary\" href=\"meetinginfo.html\" data-app-placeholder=\"Type Text\">Meetings Info</a>\n                    <a class=\"btn btn-md btn-primary\" href=\"elected.html\" data-app-placeholder=\"Type Text\">Your Elected Officials</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/democrat-donkey-2000x1950-2-2000x1950.png\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    Eastern Shore Democrats</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showSubTitle\"><b>Newsletter</b></h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Welcome to the Accomack and Northampton Counties Newsletter</p>\n                <div mbr-buttons mbr-theme-style=\"display-7\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-primary\" href=\"meetinginfo.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>County Meetings &amp; Committee Officers</a>\n                    <a class=\"btn btn-md btn-primary\" href=\"elected.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact Your Elected Officials</a> <a class=\"btn btn-md btn-secondary\" href=\"feedback.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>Newsletter Feedback</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "qTkA127IK8",
           "_anchor": "header2-1",
           "_protectedParams": [],
@@ -189,35 +189,78 @@
           "_name": "image3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"33\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/round-vote-democratic-430x430-430x430.jpg\" width=\"1400\" alt=\"Vote Democratic\" title=\"Vote Democratic\">\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-5\"><br>Eastern Shore Democrats Newsletter</div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "qWXjH1Vrle",
+          "_anchor": "image3-y",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image3-y"
+          "_params": {}
         },
         {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text": {
-              "color": "#767676"
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
             },
-            ".mbr-text P": {
-              "color": "#232323"
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
             },
-            ".mbr-text B": {
-              "color": "#232323"
+            "h4": {
+              "text-align": "left",
+              "font-weight": "500"
+            },
+            "p": {
+              "color": "#767676",
+              "text-align": "left",
+              "margin-bottom": "0"
+            },
+            ".card-img": {
+              "text-align": "left",
+              "-webkit-flex": "1 0 auto",
+              "flex": "1 0 auto",
+              "width": "auto"
+            },
+            ".card-img span": {
+              "font-size": "72px",
+              "color": "rgb(255, 51, 102)"
+            },
+            ".card-box": {
+              "padding-left": "1rem",
+              "word-break": "break-word"
+            },
+            "@media (max-width: 991px)": {
+              ".card-img": {
+                "text-align": "left",
+                "padding-bottom": "0.75rem"
+              },
+              ".card-box": {
+                "padding-left": "0"
+              }
             }
           },
-          "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>Eastern Shore Democrats Newsletter</b></p><p>Welcome to the Newsletter of the Eastern Shore Democrats, a cooperative service of Northampton County Virginia Democrats, and Accomack County Virginia Democrats. <a href=\"https://drive.google.com/file/d/19LC0VoUV6Cuu7rhYktBVNK-JA3AmCxNW/view?usp=sharing\">Please join us. </a>We want you! We want your skills, your expertise, your passion, and your commitment to help us turn Virginia blue! \n<span style=\"font-size: 1rem;\">To find out about Democratic meetings and events in your county, visit the <a href=\"https://sites.google.com/site/esvadems/accomack-county\" target=\"_blank\">Accomack County</a> or the <a href=\"https://sites.google.com/site/esvadems/northampton-county\" target=\"_blank\">Northampton County</a>&nbsp;web pages.&nbsp;</span></p><p>\n<a href=\"https://drive.google.com/open?id=1uvzRXmTZYt0KHHPaLTyyKgwkAhjgDQDiAwr6Uu6HgRI\" target=\"_blank\" class=\"text-primary\">Click to j</a><span style=\"font-size: 1rem;\"><a href=\"https://drive.google.com/open?id=1uvzRXmTZYt0KHHPaLTyyKgwkAhjgDQDiAwr6Uu6HgRI\" target=\"_blank\">oin our Newsletter email list</a>&nbsp;</span></p><p><a href=\"https://drive.google.com/file/d/16bwrLsAie97mwbzfrIaV4_7Dg-Q-OV8X/view?usp=sharing\">View our 2018 Calendar of Events</a>&nbsp;</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><b><i>Accomack County Democratic Committee Officers:\n</i></b><div><b>Chair: Parker Dooley\n</b></div><div>1st Vice Chair: Frank Moore\n</div><div>2nd Vice Chair: Debra Wharton\n</div><div>Treasurer: Al McKegg\n</div><div>Secretary: Laurie Chamberlain&nbsp;</div><div><br></div><div><b><i>Northampton County Democratic Committee Officers:\n</i></b></div><div>\n<span style=\"font-size: 1rem;\"><b>Chair: Linda Schulz&nbsp;</b></span></div><div>1st Vice Chair: Bill Payne\n</div><div>2nd Vice Chair: Bob Toner\n</div><div>Secretary: Joann Clark\n</div><div>Treasurer: Arlene Joynes\n</div><div><br></div><div><a href=\"https://drive.google.com/file/d/19LC0VoUV6Cuu7rhYktBVNK-JA3AmCxNW/view?usp=sharing\" target=\"_blank\" class=\"text-secondary\">Join your County Democratic Committee</a></div><div><br></div></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qWAQMHCJC8",
-          "_anchor": "content3-a",
+          "_name": "features9",
+          "_customHTML": "<section class=\"features9\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#f9f9f9\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset> \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"card p-3 col-12 col-md-6\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"media-container-row\">\n                    <div class=\"card-img pr-2\">\n                        <span mbr-icon class=\"mbr-iconfont mbri-edit\"></span>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title py-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title, .card-img\"><b>\n                            Eastern Shore Democrats Newsletter</b></h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                           This is your newsletter. We encourage you to connect with us and provide any relevant news, feedback, suggestions, or criticism. Any type of \"How To\" information is always useful and encouraged. Editorial submissions are encouraged. <a href=\"feedback.html\">Drop us a note</a> outlining your ideas and we will discuss and then add your editorial content to the newsletter. We strongly encourage you to share this newsletters URL with your friends, neighbors and colleagues. Help us get the word out and increase our reach!</p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"media-container-row\">\n                    <div class=\"card-img pr-2\">\n                        <span mbr-icon class=\"mbri-star mbr-iconfont\"></span>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title py-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title, .card-img\"><b>\n                            Other Local Groups</b></h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                           If you belong to or represent any local organization that also has a political focus we would love to hear from you and will be happy to feature info about your group and what you do to further the political conversation. Working together to leverage our strengths and knowledge benefits everyone. We would be pleased to display links and contact info about your group. So please <a href=\"feedback.html\">contact </a>us.&nbsp;Please work together with us. We want you! We want your skills, your expertise, your passion, and your commitment to help us turn Virginia blue! </p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"media-container-row\">\n                    <div class=\"card-img pr-2\">\n                        <span mbr-icon class=\"mbri-desktop mbr-iconfont\"></span>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title py-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title, .card-img\">\n                            Unique Styles\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                           Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.\n                        </p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 3\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"media-container-row\">\n                    <div class=\"card-img pr-2\">\n                        <span mbr-icon class=\"mbri-touch mbr-iconfont\"></span>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title py-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title, .card-img\">\n                            Unlimited Sites\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                           Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.\n                        </p>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qX2Cfu9odt",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "features9-17"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Newsletter Sign-up</a> <a class=\"btn btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Calendar of Events</a> <a class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\"><span class=\"socicon socicon-younow mbr-iconfont mbr-iconfont-btn\"></span>Join your County Committee</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qX2mALI1dR",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content8-z"
         },
         {
           "_styles": {
@@ -506,411 +549,6 @@
       "components": [
         {
           "_styles": {
-            ".navbar": {
-              "padding": ".5rem 0",
-              "background": "@menuBgColor",
-              "transition": "none",
-              "min-height": "77px"
-            },
-            ".navbar-dropdown.bg-color.transparent.opened": {
-              "background": "@menuBgColor"
-            },
-            "a": {
-              "font-style": "normal"
-            },
-            ".nav-item": {
-              "& span": {
-                "padding-right": "0.4em",
-                "line-height": "0.5em",
-                "vertical-align": "text-bottom",
-                "position": "relative",
-                "text-decoration": "none"
-              },
-              "& a": {
-                "display": "flex",
-                "align-items": "center",
-                "justify-content": "center",
-                "padding": "0.7rem 0 !important",
-                "margin": "0rem .65rem !important"
-              }
-            },
-            ".nav-item:focus, .nav-link:focus": {
-              "outline": "none"
-            },
-            ".btn": {
-              "padding": "0.4rem 1.5rem",
-              ".mbr-iconfont": {
-                "font-size": "1.6rem"
-              },
-              "display": "inline-flex",
-              "align-items": "center"
-            },
-            ".menu-logo": {
-              "margin-right": "auto",
-              ".navbar-brand": {
-                "display": "flex",
-                "margin-left": "5rem",
-                "padding": "0",
-                "transition": "padding .2s",
-                "min-height": "3.8rem",
-                "align-items": "center",
-                ".navbar-caption-wrap": {
-                  "display": "-webkit-flex",
-                  "-webkit-align-items": "center",
-                  "align-items": "center",
-                  "word-break": "break-word",
-                  "min-width": "7rem",
-                  "margin": ".3rem 0",
-                  ".navbar-caption": {
-                    "line-height": "1.2rem !important",
-                    "padding-right": "2rem"
-                  }
-                },
-                ".navbar-logo": {
-                  "font-size": "4rem",
-                  "transition": "font-size 0.25s",
-                  "& img": {
-                    "display": "flex"
-                  },
-                  ".mbr-iconfont": {
-                    "transition": "font-size 0.25s"
-                  }
-                }
-              }
-            },
-            ".navbar-toggleable-sm .navbar-collapse": {
-              "justify-content": "flex-end",
-              "-webkit-justify-content": "flex-end",
-              "padding-right": "5rem",
-              "width": "auto",
-              ".navbar-nav": {
-                "flex-wrap": "wrap",
-                "-webkit-flex-wrap": "wrap",
-                "padding-left": "0",
-                ".nav-item": {
-                  "-webkit-align-self": "center",
-                  "align-self": "center"
-                }
-              },
-              ".navbar-buttons": {
-                "padding-left": "0",
-                "padding-bottom": "0"
-              }
-            },
-            ".dropdown": {
-              ".dropdown-menu": {
-                "background": "@menuBgColor",
-                "display": "none",
-                "position": "absolute",
-                "min-width": "5rem",
-                "padding-top": "1.4rem",
-                "padding-bottom": "1.4rem",
-                "text-align": "left",
-                ".dropdown-item": {
-                  "width": "auto",
-                  "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
-                  "&::after": {
-                    "right": "0.5rem"
-                  }
-                },
-                ".dropdown-submenu": {
-                  "margin": "0"
-                }
-              },
-              "&.open > .dropdown-menu": {
-                "display": "block"
-              }
-            },
-            ".navbar-toggleable-sm": {
-              "&.opened:after": {
-                "position": "absolute",
-                "width": "100vw",
-                "height": "100vh",
-                "content": "''",
-                "background-color": "rgba(0, 0, 0, 0.1)",
-                "left": "0",
-                "bottom": "0",
-                "transform": "translateY(100%)",
-                "-webkit-transform": "translateY(100%)",
-                "z-index": "1000"
-              }
-            },
-            ".navbar.navbar-short": {
-              "min-height": "60px",
-              "transition": "all .2s",
-              "& .navbar-toggler-right": {
-                "top": "20px"
-              },
-              "& .navbar-logo a": {
-                "font-size": "2.5rem !important",
-                "line-height": "2.5rem",
-                "transition": "font-size 0.25s",
-                "& .mbr-iconfont": {
-                  "font-size": "2.5rem !important"
-                },
-                "& img": {
-                  "height": "3rem !important"
-                }
-              },
-              "& .navbar-brand": {
-                "min-height": "3rem"
-              }
-            },
-            "button.navbar-toggler": {
-              "width": "31px",
-              "height": "18px",
-              "cursor": "pointer",
-              "transition": "all .2s",
-              "top": "1.5rem",
-              "right": "1rem",
-              "&:focus": {
-                "outline": "none"
-              },
-              ".hamburger span": {
-                "position": "absolute",
-                "right": "0",
-                "width": "30px",
-                "height": "2px",
-                "border-right": "5px",
-                "background-color": "@hamburgerColor",
-                "&:nth-child(1)": {
-                  "top": "0",
-                  "transition": "all .2s"
-                },
-                "&:nth-child(2)": {
-                  "top": "8px",
-                  "transition": "all .15s"
-                },
-                "&:nth-child(3)": {
-                  "top": "8px",
-                  "transition": "all .15s"
-                },
-                "&:nth-child(4)": {
-                  "top": "16px",
-                  "transition": "all .2s"
-                }
-              }
-            },
-            "nav.opened .hamburger span": {
-              "&:nth-child(1)": {
-                "top": "8px",
-                "width": "0",
-                "opacity": "0",
-                "right": "50%",
-                "transition": "all .2s"
-              },
-              "&:nth-child(2)": {
-                "-webkit-transform": "rotate(45deg)",
-                "transform": "rotate(45deg)",
-                "transition": "all .25s"
-              },
-              "&:nth-child(3)": {
-                "-webkit-transform": "rotate(-45deg)",
-                "transform": "rotate(-45deg)",
-                "transition": "all .25s"
-              },
-              "&:nth-child(4)": {
-                "top": "8px",
-                "width": "0",
-                "opacity": "0",
-                "right": "50%",
-                "transition": "all .2s"
-              }
-            },
-            ".collapsed": {
-              "&.navbar-expand": {
-                "flex-direction": "column"
-              },
-              ".btn": {
-                "display": "flex"
-              },
-              ".navbar-collapse": {
-                "display": "none !important",
-                "padding-right": "0 !important",
-                "&.collapsing,&.show": {
-                  "display": "block !important",
-                  ".navbar-nav": {
-                    "display": "block",
-                    "text-align": "center",
-                    ".nav-item": {
-                      "clear": "both",
-                      "& when (@showButtons = false)": {
-                        "&:last-child": {
-                          "margin-bottom": "1rem"
-                        }
-                      }
-                    }
-                  },
-                  ".navbar-buttons": {
-                    "text-align": "center",
-                    "&:last-child": {
-                      "margin-bottom": "1rem"
-                    }
-                  }
-                }
-              },
-              "button.navbar-toggler": {
-                "display": "block"
-              },
-              ".navbar-brand": {
-                "margin-left": "1rem !important"
-              },
-              ".navbar-toggleable-sm": {
-                "flex-direction": "column",
-                "-webkit-flex-direction": "column"
-              },
-              ".dropdown": {
-                ".dropdown-menu": {
-                  "width": "100%",
-                  "text-align": "center",
-                  "position": "relative",
-                  "opacity": "0",
-                  "display": "block",
-                  "height": "0",
-                  "visibility": "hidden",
-                  "padding": "0",
-                  "transition-duration": ".5s",
-                  "transition-property": "opacity,padding,height"
-                },
-                "&.open > .dropdown-menu": {
-                  "position": "relative",
-                  "opacity": "1",
-                  "height": "auto",
-                  "padding": "1.4rem 0",
-                  "visibility": "visible"
-                },
-                ".dropdown-submenu": {
-                  "left": "0",
-                  "text-align": "center",
-                  "width": "100%"
-                },
-                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
-                  "margin-top": "0",
-                  "position": "inherit",
-                  "right": "0",
-                  "top": "50%",
-                  "display": "inline-block",
-                  "width": "0",
-                  "height": "0",
-                  "margin-left": ".3em",
-                  "vertical-align": "middle",
-                  "content": "\"\"",
-                  "border-top": ".30em solid",
-                  "border-right": ".30em solid transparent",
-                  "border-left": ".30em solid transparent"
-                }
-              }
-            },
-            "@media (max-width: 991px)": {
-              ".navbar-expand": {
-                "flex-direction": "column"
-              },
-              "img": {
-                "height": "3.8rem !important"
-              },
-              ".btn": {
-                "display": "flex"
-              },
-              "button.navbar-toggler": {
-                "display": "block"
-              },
-              ".navbar-brand": {
-                "margin-left": "1rem !important"
-              },
-              ".navbar-toggleable-sm": {
-                "flex-direction": "column",
-                "-webkit-flex-direction": "column"
-              },
-              ".navbar-collapse": {
-                "display": "none !important",
-                "padding-right": "0 !important",
-                "&.collapsing,&.show": {
-                  "display": "block !important",
-                  ".navbar-nav": {
-                    "display": "block",
-                    "text-align": "center",
-                    ".nav-item": {
-                      "clear": "both",
-                      "& when (@showButtons = false)": {
-                        "&:last-child": {
-                          "margin-bottom": "1rem"
-                        }
-                      }
-                    }
-                  },
-                  ".navbar-buttons": {
-                    "text-align": "center",
-                    "&:last-child": {
-                      "margin-bottom": "1rem"
-                    }
-                  }
-                }
-              },
-              ".dropdown": {
-                ".dropdown-menu": {
-                  "width": "100%",
-                  "text-align": "center",
-                  "position": "relative",
-                  "opacity": "0",
-                  "display": "block",
-                  "height": "0",
-                  "visibility": "hidden",
-                  "padding": "0",
-                  "transition-duration": ".5s",
-                  "transition-property": "opacity,padding,height"
-                },
-                "&.open > .dropdown-menu": {
-                  "position": "relative",
-                  "opacity": "1",
-                  "height": "auto",
-                  "padding": "1.4rem 0",
-                  "visibility": "visible"
-                },
-                ".dropdown-submenu": {
-                  "left": "0",
-                  "text-align": "center",
-                  "width": "100%"
-                },
-                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
-                  "margin-top": "0",
-                  "position": "inherit",
-                  "right": "0",
-                  "top": "50%",
-                  "display": "inline-block",
-                  "width": "0",
-                  "height": "0",
-                  "margin-left": ".3em",
-                  "vertical-align": "middle",
-                  "content": "\"\"",
-                  "border-top": ".30em solid",
-                  "border-right": ".30em solid transparent",
-                  "border-left": ".30em solid transparent"
-                }
-              }
-            },
-            "@media (min-width: 767px)": {
-              ".menu-logo": {
-                "flex-shrink": "0"
-              }
-            },
-            ".navbar-collapse": {
-              "flex-basis": "auto"
-            },
-            ".nav-link:hover, .dropdown-item:hover": {
-              "color": "@itemsHoverColor !important"
-            }
-          },
-          "_name": "menu1",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\">\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#c1c1c1\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#c1c1c1\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"https://mobirise.com\">\n                         <img src=\"../_images/logo2.png\" alt=\"Mobirise\" mbr-style=\"{'height': logoSize + 'rem'}\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        <span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>\n                        Services\n                    </a>\n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        <span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>\n                        About Us\n                    </a>\n                </li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">\n                    <span class=\"mbri-save mbr-iconfont mbr-iconfont-btn \" data-app-selector=\".mbr-iconfont-btn\"></span>\n                    Try It Now!\n                </a></div>\n        </div>\n    </nav>\n</section>",
-          "_cid": "qTkzRZLJNu",
-          "_anchor": "menu1-b",
-          "_protectedParams": [],
-          "_global": true,
-          "_once": "menu",
-          "_params": {}
-        },
-        {
-          "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
@@ -919,13 +557,28 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Eastern Shore Democrats Meetings</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Virginia's Accomack &amp; Northampton County Democratic Committees<br><a href=\"index.html\" class=\"text-secondary\">Return Home</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Eastern Shore Democrats <br>Officers &amp; Meetings</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\"><b>\n                    Virginia's Accomack &amp; Northampton County Democratic Committees</b><br></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWFfnxhssr",
           "_anchor": "content4-c",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-secondary\" href=\"index.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-refresh mbr-iconfont mbr-iconfont-btn\"></span>Return Home</a> <a class=\"btn btn-primary\" href=\"https://drive.google.com/file/d/19LC0VoUV6Cuu7rhYktBVNK-JA3AmCxNW/view?usp=sharing\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbri-edit2 mbr-iconfont mbr-iconfont-btn\"></span>Join Your County Committee</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qX2sQ3ucKt",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content8-10"
         },
         {
           "_styles": {
@@ -940,7 +593,7 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     Accomack County Committee</b></p><p><span style=\"font-size: 1rem;\"><b>Where:</b>&nbsp;&nbsp;</span><span style=\"font-size: 1rem;\">Eastern Shore Chamber of Commerce Building, 19056 Parkway Road, Melfa, VA 23410</span></p><p><span style=\"font-size: 1rem;\"><b>When:</b>&nbsp; Normally on the First Wednesday of each Month @ 6 pm.</span></p><p><span style=\"font-size: 1rem;\"><b>Website:</b>&nbsp; https://sites.google.com/site/esvadems/accomack-county<br></span><br></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     Northampton County Committee</b></p><p><b>Where:</b>&nbsp; Northampton Social Services Building, 5265 The Hornes, Eastville, VA 23347</p><p><b>When:</b>&nbsp; Normally on the First Tuesday of each Month @ 7 pm.</p><p><b>Website:</b>&nbsp; https://sites.google.com/site/esvadems/northampton-county</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b style=\"font-size: 1rem;\">Accomack County Democratic Committee Officers:&nbsp;</b><br></p><p><b>Chair: </b>Parker Dooley\n</p><p><b>1st Vice Chair: </b>Frank Moore\n</p><p><b>2nd Vice Chair: </b>Debra Wharton\n</p><p><b>Treasurer: </b>Al McKegg\n</p><p><b>Secretary: </b>Laurie Chamberlain<b>&nbsp;</b></p><p><span style=\"font-size: 1rem;\"><b>-----------------------------</b></span></p><p><span style=\"font-size: 1rem;\"><b>Accomack County Committee Meetings</b></span></p><p><span style=\"font-size: 1rem;\"><b>Where:</b>&nbsp;&nbsp;</span><span style=\"font-size: 1rem;\">Eastern Shore Chamber of Commerce Building, 19056 Parkway Road, Melfa, VA 23410</span></p><p><span style=\"font-size: 1rem;\"><b>When:</b>&nbsp; Normally on the First Wednesday of each Month @ 6 pm.</span></p><p><span style=\"font-size: 1rem;\"><b>Website:</b>&nbsp; https://sites.google.com/site/esvadems/accomack-county<br></span><br></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     </b></p><p><b>Northampton County Democratic Committee Officers:\n</b></p><p><b>Chair: </b>Linda Schulz \n</p><p><b>1st Vice Chair: </b>Bill Payne\n</p><p><b>2nd Vice Chair: </b>Bob Toner\n</p><p><b>Secretary:</b> Joann Clark\n</p><p><b>Treasurer: </b>Arlene Joynes</p><p><b>-----------------------------</b></p><p><b>Northampton County Committee Meetings</b></p><p><b>Where:</b>&nbsp; Northampton Social Services Building, 5265 The Hornes, Eastville, VA 23347</p><p><b>When:</b>&nbsp; Normally on the First Tuesday of each Month @ 7 pm.</p><p><b>Website:</b>&nbsp; https://sites.google.com/site/esvadems/northampton-county</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWFfv8u20a",
           "_anchor": "content3-d",
           "_protectedParams": [],
@@ -959,411 +612,6 @@
       "components": [
         {
           "_styles": {
-            ".navbar": {
-              "padding": ".5rem 0",
-              "background": "@menuBgColor",
-              "transition": "none",
-              "min-height": "77px"
-            },
-            ".navbar-dropdown.bg-color.transparent.opened": {
-              "background": "@menuBgColor"
-            },
-            "a": {
-              "font-style": "normal"
-            },
-            ".nav-item": {
-              "& span": {
-                "padding-right": "0.4em",
-                "line-height": "0.5em",
-                "vertical-align": "text-bottom",
-                "position": "relative",
-                "text-decoration": "none"
-              },
-              "& a": {
-                "display": "flex",
-                "align-items": "center",
-                "justify-content": "center",
-                "padding": "0.7rem 0 !important",
-                "margin": "0rem .65rem !important"
-              }
-            },
-            ".nav-item:focus, .nav-link:focus": {
-              "outline": "none"
-            },
-            ".btn": {
-              "padding": "0.4rem 1.5rem",
-              ".mbr-iconfont": {
-                "font-size": "1.6rem"
-              },
-              "display": "inline-flex",
-              "align-items": "center"
-            },
-            ".menu-logo": {
-              "margin-right": "auto",
-              ".navbar-brand": {
-                "display": "flex",
-                "margin-left": "5rem",
-                "padding": "0",
-                "transition": "padding .2s",
-                "min-height": "3.8rem",
-                "align-items": "center",
-                ".navbar-caption-wrap": {
-                  "display": "-webkit-flex",
-                  "-webkit-align-items": "center",
-                  "align-items": "center",
-                  "word-break": "break-word",
-                  "min-width": "7rem",
-                  "margin": ".3rem 0",
-                  ".navbar-caption": {
-                    "line-height": "1.2rem !important",
-                    "padding-right": "2rem"
-                  }
-                },
-                ".navbar-logo": {
-                  "font-size": "4rem",
-                  "transition": "font-size 0.25s",
-                  "& img": {
-                    "display": "flex"
-                  },
-                  ".mbr-iconfont": {
-                    "transition": "font-size 0.25s"
-                  }
-                }
-              }
-            },
-            ".navbar-toggleable-sm .navbar-collapse": {
-              "justify-content": "flex-end",
-              "-webkit-justify-content": "flex-end",
-              "padding-right": "5rem",
-              "width": "auto",
-              ".navbar-nav": {
-                "flex-wrap": "wrap",
-                "-webkit-flex-wrap": "wrap",
-                "padding-left": "0",
-                ".nav-item": {
-                  "-webkit-align-self": "center",
-                  "align-self": "center"
-                }
-              },
-              ".navbar-buttons": {
-                "padding-left": "0",
-                "padding-bottom": "0"
-              }
-            },
-            ".dropdown": {
-              ".dropdown-menu": {
-                "background": "@menuBgColor",
-                "display": "none",
-                "position": "absolute",
-                "min-width": "5rem",
-                "padding-top": "1.4rem",
-                "padding-bottom": "1.4rem",
-                "text-align": "left",
-                ".dropdown-item": {
-                  "width": "auto",
-                  "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
-                  "&::after": {
-                    "right": "0.5rem"
-                  }
-                },
-                ".dropdown-submenu": {
-                  "margin": "0"
-                }
-              },
-              "&.open > .dropdown-menu": {
-                "display": "block"
-              }
-            },
-            ".navbar-toggleable-sm": {
-              "&.opened:after": {
-                "position": "absolute",
-                "width": "100vw",
-                "height": "100vh",
-                "content": "''",
-                "background-color": "rgba(0, 0, 0, 0.1)",
-                "left": "0",
-                "bottom": "0",
-                "transform": "translateY(100%)",
-                "-webkit-transform": "translateY(100%)",
-                "z-index": "1000"
-              }
-            },
-            ".navbar.navbar-short": {
-              "min-height": "60px",
-              "transition": "all .2s",
-              "& .navbar-toggler-right": {
-                "top": "20px"
-              },
-              "& .navbar-logo a": {
-                "font-size": "2.5rem !important",
-                "line-height": "2.5rem",
-                "transition": "font-size 0.25s",
-                "& .mbr-iconfont": {
-                  "font-size": "2.5rem !important"
-                },
-                "& img": {
-                  "height": "3rem !important"
-                }
-              },
-              "& .navbar-brand": {
-                "min-height": "3rem"
-              }
-            },
-            "button.navbar-toggler": {
-              "width": "31px",
-              "height": "18px",
-              "cursor": "pointer",
-              "transition": "all .2s",
-              "top": "1.5rem",
-              "right": "1rem",
-              "&:focus": {
-                "outline": "none"
-              },
-              ".hamburger span": {
-                "position": "absolute",
-                "right": "0",
-                "width": "30px",
-                "height": "2px",
-                "border-right": "5px",
-                "background-color": "@hamburgerColor",
-                "&:nth-child(1)": {
-                  "top": "0",
-                  "transition": "all .2s"
-                },
-                "&:nth-child(2)": {
-                  "top": "8px",
-                  "transition": "all .15s"
-                },
-                "&:nth-child(3)": {
-                  "top": "8px",
-                  "transition": "all .15s"
-                },
-                "&:nth-child(4)": {
-                  "top": "16px",
-                  "transition": "all .2s"
-                }
-              }
-            },
-            "nav.opened .hamburger span": {
-              "&:nth-child(1)": {
-                "top": "8px",
-                "width": "0",
-                "opacity": "0",
-                "right": "50%",
-                "transition": "all .2s"
-              },
-              "&:nth-child(2)": {
-                "-webkit-transform": "rotate(45deg)",
-                "transform": "rotate(45deg)",
-                "transition": "all .25s"
-              },
-              "&:nth-child(3)": {
-                "-webkit-transform": "rotate(-45deg)",
-                "transform": "rotate(-45deg)",
-                "transition": "all .25s"
-              },
-              "&:nth-child(4)": {
-                "top": "8px",
-                "width": "0",
-                "opacity": "0",
-                "right": "50%",
-                "transition": "all .2s"
-              }
-            },
-            ".collapsed": {
-              "&.navbar-expand": {
-                "flex-direction": "column"
-              },
-              ".btn": {
-                "display": "flex"
-              },
-              ".navbar-collapse": {
-                "display": "none !important",
-                "padding-right": "0 !important",
-                "&.collapsing,&.show": {
-                  "display": "block !important",
-                  ".navbar-nav": {
-                    "display": "block",
-                    "text-align": "center",
-                    ".nav-item": {
-                      "clear": "both",
-                      "& when (@showButtons = false)": {
-                        "&:last-child": {
-                          "margin-bottom": "1rem"
-                        }
-                      }
-                    }
-                  },
-                  ".navbar-buttons": {
-                    "text-align": "center",
-                    "&:last-child": {
-                      "margin-bottom": "1rem"
-                    }
-                  }
-                }
-              },
-              "button.navbar-toggler": {
-                "display": "block"
-              },
-              ".navbar-brand": {
-                "margin-left": "1rem !important"
-              },
-              ".navbar-toggleable-sm": {
-                "flex-direction": "column",
-                "-webkit-flex-direction": "column"
-              },
-              ".dropdown": {
-                ".dropdown-menu": {
-                  "width": "100%",
-                  "text-align": "center",
-                  "position": "relative",
-                  "opacity": "0",
-                  "display": "block",
-                  "height": "0",
-                  "visibility": "hidden",
-                  "padding": "0",
-                  "transition-duration": ".5s",
-                  "transition-property": "opacity,padding,height"
-                },
-                "&.open > .dropdown-menu": {
-                  "position": "relative",
-                  "opacity": "1",
-                  "height": "auto",
-                  "padding": "1.4rem 0",
-                  "visibility": "visible"
-                },
-                ".dropdown-submenu": {
-                  "left": "0",
-                  "text-align": "center",
-                  "width": "100%"
-                },
-                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
-                  "margin-top": "0",
-                  "position": "inherit",
-                  "right": "0",
-                  "top": "50%",
-                  "display": "inline-block",
-                  "width": "0",
-                  "height": "0",
-                  "margin-left": ".3em",
-                  "vertical-align": "middle",
-                  "content": "\"\"",
-                  "border-top": ".30em solid",
-                  "border-right": ".30em solid transparent",
-                  "border-left": ".30em solid transparent"
-                }
-              }
-            },
-            "@media (max-width: 991px)": {
-              ".navbar-expand": {
-                "flex-direction": "column"
-              },
-              "img": {
-                "height": "3.8rem !important"
-              },
-              ".btn": {
-                "display": "flex"
-              },
-              "button.navbar-toggler": {
-                "display": "block"
-              },
-              ".navbar-brand": {
-                "margin-left": "1rem !important"
-              },
-              ".navbar-toggleable-sm": {
-                "flex-direction": "column",
-                "-webkit-flex-direction": "column"
-              },
-              ".navbar-collapse": {
-                "display": "none !important",
-                "padding-right": "0 !important",
-                "&.collapsing,&.show": {
-                  "display": "block !important",
-                  ".navbar-nav": {
-                    "display": "block",
-                    "text-align": "center",
-                    ".nav-item": {
-                      "clear": "both",
-                      "& when (@showButtons = false)": {
-                        "&:last-child": {
-                          "margin-bottom": "1rem"
-                        }
-                      }
-                    }
-                  },
-                  ".navbar-buttons": {
-                    "text-align": "center",
-                    "&:last-child": {
-                      "margin-bottom": "1rem"
-                    }
-                  }
-                }
-              },
-              ".dropdown": {
-                ".dropdown-menu": {
-                  "width": "100%",
-                  "text-align": "center",
-                  "position": "relative",
-                  "opacity": "0",
-                  "display": "block",
-                  "height": "0",
-                  "visibility": "hidden",
-                  "padding": "0",
-                  "transition-duration": ".5s",
-                  "transition-property": "opacity,padding,height"
-                },
-                "&.open > .dropdown-menu": {
-                  "position": "relative",
-                  "opacity": "1",
-                  "height": "auto",
-                  "padding": "1.4rem 0",
-                  "visibility": "visible"
-                },
-                ".dropdown-submenu": {
-                  "left": "0",
-                  "text-align": "center",
-                  "width": "100%"
-                },
-                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
-                  "margin-top": "0",
-                  "position": "inherit",
-                  "right": "0",
-                  "top": "50%",
-                  "display": "inline-block",
-                  "width": "0",
-                  "height": "0",
-                  "margin-left": ".3em",
-                  "vertical-align": "middle",
-                  "content": "\"\"",
-                  "border-top": ".30em solid",
-                  "border-right": ".30em solid transparent",
-                  "border-left": ".30em solid transparent"
-                }
-              }
-            },
-            "@media (min-width: 767px)": {
-              ".menu-logo": {
-                "flex-shrink": "0"
-              }
-            },
-            ".navbar-collapse": {
-              "flex-basis": "auto"
-            },
-            ".nav-link:hover, .dropdown-item:hover": {
-              "color": "@itemsHoverColor !important"
-            }
-          },
-          "_name": "menu1",
-          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\">\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\">\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#c1c1c1\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#c1c1c1\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"https://mobirise.com\">\n                         <img src=\"../_images/logo2.png\" alt=\"Mobirise\" mbr-style=\"{'height': logoSize + 'rem'}\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        <span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>\n                        Services\n                    </a>\n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        <span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>\n                        About Us\n                    </a>\n                </li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">\n                    <span class=\"mbri-save mbr-iconfont mbr-iconfont-btn \" data-app-selector=\".mbr-iconfont-btn\"></span>\n                    Try It Now!\n                </a></div>\n        </div>\n    </nav>\n</section>",
-          "_cid": "qTkzRZLJNu",
-          "_anchor": "menu1-f",
-          "_protectedParams": [],
-          "_global": true,
-          "_once": "menu",
-          "_params": {}
-        },
-        {
-          "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
@@ -1372,13 +620,28 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Your Elected Officials</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    If you need to contact an elected official <br>or just want to learn more about them<br><a href=\"index.html\" class=\"text-secondary\">Return Home</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Contact Your Elected Officials</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\"><b>\n                    If you need to contact an elected official <br>or just want to learn more about them</b><br></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWFmYCR1oV",
           "_anchor": "content4-g",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\"><span class=\"mbri-refresh mbr-iconfont mbr-iconfont-btn\"></span>Return Home</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qX2vj42gGH",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content8-11"
         },
         {
           "_styles": {
@@ -1393,13 +656,97 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     National Officials</b></p><p><b>-----------------------------------------------</b></p><p><b>Senator Mark Warner\n</b></p><p>\n<span style=\"font-size: 1rem;\">475 Russell Senate Office Building&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Washington, DC 20510&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Phone: 202-224-2023&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Website: https://www.warner.senate.gov/public/&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>Senator Tim Kaine&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">231 Russell Senate Office Building&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Washington, D.C. 20510&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Phone: (202) 224-4024&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Website: https://www.kaine.senate.gov/&nbsp;</span><br></p><p>\n<b style=\"font-size: 1rem;\">Congressman Scott Taylor&nbsp;</b></p><p>\n<span style=\"font-size: 1rem;\">412 Cannon House Office Building&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Washington, DC 20515&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">DC Phone: 202-225-4215&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Local Phone 757-518-1674&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Website: https://taylor.house.gov/&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>-----------------------------------------------</b> &nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\"><b>State Officials&nbsp;</b></span></p><p><span style=\"font-size: 1rem;\"><b>-----------------------------------------------</b></span></p><p>\n<span style=\"font-size: 1rem;\"><b>Governor Ralph Northam&nbsp;</b></span></p><p><b>\n</b><span style=\"font-size: 1rem;\">P.O. Box 1475&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Richmond, VA 23218&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Phone: 804-786-2211&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Website: https://www.governor.virginia.gov/&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\"><b>Lt. Governor Justin Fairfax&nbsp;</b></span></p><p>\n<span style=\"font-size: 1rem;\">Oliver Hill Building&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">102 Governor Street&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Richmond, Virginia 23218&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Phone: 804-786-2078&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Mailing Address:&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Office of the Lt. Governor&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\">P.O. Box 1195&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Richmond, Virginia 23218&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Website: https://www.ltgov.virginia.gov/&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\"><b>Attorney General Mark Herring&nbsp;</b></span></p><p>\n<span style=\"font-size: 1rem;\">Attorney General’s Office&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">202 North Ninth Street&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Richmond, Virginia 23219&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Phone: 804-786-2071&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Website: https://www.oag.state.va.us/&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>Senator Lynwood Lewis&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">Pocahontas Building&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Room No: E609&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Senate of Virginia&nbsp;</span></p><p>\nP.&nbsp;<span style=\"font-size: 1rem;\">O. Box 396&nbsp;</span></p><p>Richmond, VA 23218\n</p><p>\n<span style=\"font-size: 1rem;\">Phone: (804) 698-7506&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Email: district06@senate.virginia.gov&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">District Office: P. O. Box 760, Accomac, VA 23301&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Local Phone: (757) 787-1094&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Website: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S92&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>Delegate Robert S. Bloxom, Jr.&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">Capitol Office&nbsp;</span></p><p><span style=\"font-size: 1rem;\">General Assembly Building Room 405&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">P.O. Box 406 Richmond, Virginia 23218&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Office: (804) 698-1000&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email: DelRBloxom@house.virginia.gov&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">District Office: P.O. Box 27, Mappsville, VA 23407&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\">Local Phone: (757) 824-3456&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Congressional phone bank:&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">202-225-3121&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Website: http://www.robbloxom.com/</span></p><p><span style=\"font-size: 1rem;\"><b>-----------------------------------------------</b></span></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><span style=\"font-size: 1rem;\"><b>Local Officials&nbsp;</b></span></p><p><span style=\"font-size: 1rem;\"><b>-----------------------------------------------</b></span></p><p><b>Northampton County Supervisors\n</b></p><p>\n<span style=\"font-size: 1rem;\">County Info Phone: 757-678-0440&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Website: http://www.co.northampton.va.us/gov/board.html&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\"><b>District 1: &nbsp;John Coker&nbsp;</b></span></p><p>\n<span style=\"font-size: 1rem;\">Email: jcoker@co.northampton.va.us&nbsp;</span></p><p><b>\n<span style=\"font-size: 1rem;\">District 2: &nbsp;David Fauber&nbsp;</span></b></p><p>\n<span style=\"font-size: 1rem;\">Email: dfauber@co.northampton.va.us&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\"><b>District 3: &nbsp;Oliver H. Bennett</b>&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Email: obennett@co.northampton.va.us&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>District 4: &nbsp;H. Spencer Murray</b>&nbsp;</span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">Email: smurray@co.northampton.va.us&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>District 5: &nbsp;Robert Duer</b>&nbsp;</span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">rduer@co.northampton.va.us&nbsp;</span></p><p>\n<b>-----------------------------------------------</b></p><p>&nbsp;\n<span style=\"font-size: 1rem;\"><b>Accomack County Supervisors&nbsp;</b></span></p><p>\n<span style=\"font-size: 1rem;\">County Info Phone: 757-787-5700&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Website: https://www.co.accomack.va.us/government/board-of-supervisors&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>District 1: &nbsp;William J. “Billy” Tarr&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">7079 Wayne Road, Chincoteague, VA 23336&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Home: (757) 336-2940&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email: btarr@co.accomack.va.us&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>District 2: &nbsp;Ron S. Wolff&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">P.O. Box 41, Atlantic, VA 23303&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Home: (757) 824-0383&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email: rwolff@co.accomack.va.us&nbsp;</span><br></p><p><b>\n<span style=\"font-size: 1rem;\">District 3: &nbsp;Grayson C. Chesser&nbsp;</span></b></p><p>\n<span style=\"font-size: 1rem;\">P.O. Box 12, Sanford, VA 23426&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Home: 757-824-3566&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Office: 757-824-9666&nbsp;</span></p><p><b>\n<span style=\"font-size: 1rem;\">District 4: &nbsp;Paul E. J. Muhly&nbsp;</span></b></p><p>\n<span style=\"font-size: 1rem;\">18174 Hopeton Road, Parksley, VA 23421&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Home: (757) 665-7310&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Email: pmuhly@co.accomack.va.us&nbsp;</span></p><p><b>\n<span style=\"font-size: 1rem;\">District 5: &nbsp;Harrison W. Phillips, III&nbsp;</span></b></p><p>\n<span style=\"font-size: 1rem;\">17028 Kegotank Road, Bloxom, VA 23308&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Home: (757) 665-5049&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email: hphillips@co.accomack.va.us&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>District 6: &nbsp;Robert Crockett, Chair&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">19130 Greenway Circle, Onancock, VA 23417&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Home: (757) 787-1881&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email:rcrockett@co.accomack.va.us&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>District 7: &nbsp;Laura Belle Gordy, Vice Chair&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">P.O. Box 253, Onley, VA 23418&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Home: (757) 787-2908&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email: lbgordy@co.accomack.va.us&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>District 8: &nbsp;Donald L. Hart Jr.&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">P.O. Box 100, Keller, VA 23401&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Home: (757) 787-7166&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email: dhart@co.accomack.va.us</span></p><p><span style=\"font-size: 1rem;\"><b>-----------------------------------------------<br></b></span><br></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     National Officials</b></p><p><b>-------------------------------------</b></p><p><b>Senator Mark Warner\n</b></p><p>\n<span style=\"font-size: 1rem;\">475 Russell Senate Office Building&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Washington, DC 20510&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Phone: 202-224-2023&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Website: https://www.warner.senate.gov/public/&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>Senator Tim Kaine&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">231 Russell Senate Office Building&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Washington, D.C. 20510&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Phone: (202) 224-4024&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Website: https://www.kaine.senate.gov/&nbsp;</span><br></p><p>\n<b style=\"font-size: 1rem;\">Congressman Scott Taylor&nbsp;</b></p><p>\n<span style=\"font-size: 1rem;\">412 Cannon House Office Building&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Washington, DC 20515&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">DC Phone: 202-225-4215&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Local Phone 757-518-1674&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Website: https://taylor.house.gov/&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>-------------------------------------</b>&nbsp;&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\"><b>State Officials&nbsp;</b></span></p><p><span style=\"font-size: 1rem;\"><b>-------------------------------------</b></span></p><p>\n<span style=\"font-size: 1rem;\"><b>Governor Ralph Northam&nbsp;</b></span></p><p><b>\n</b><span style=\"font-size: 1rem;\">P.O. Box 1475&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Richmond, VA 23218&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Phone: 804-786-2211&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Website: https://www.governor.virginia.gov/&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\"><b>Lt. Governor Justin Fairfax&nbsp;</b></span></p><p>\n<span style=\"font-size: 1rem;\">Oliver Hill Building&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">102 Governor Street&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Richmond, Virginia 23218&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Phone: 804-786-2078&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Mailing Address:&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Office of the Lt. Governor&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\">P.O. Box 1195&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Richmond, Virginia 23218&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Website: https://www.ltgov.virginia.gov/&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\"><b>Attorney General Mark Herring&nbsp;</b></span></p><p>\n<span style=\"font-size: 1rem;\">Attorney General’s Office&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">202 North Ninth Street&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Richmond, Virginia 23219&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Phone: 804-786-2071&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Website: https://www.oag.state.va.us/&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>Senator Lynwood Lewis&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">Pocahontas Building&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Room No: E609&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Senate of Virginia&nbsp;</span></p><p>\nP.&nbsp;<span style=\"font-size: 1rem;\">O. Box 396&nbsp;</span></p><p>Richmond, VA 23218\n</p><p>\n<span style=\"font-size: 1rem;\">Phone: (804) 698-7506&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Email: district06@senate.virginia.gov&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">District Office: P. O. Box 760, Accomac, VA 23301&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Local Phone: (757) 787-1094&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Website: https://apps.senate.virginia.gov/Senator/memberpage.php?id=S92&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>Delegate Robert S. Bloxom, Jr.&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">Capitol Office&nbsp;</span></p><p><span style=\"font-size: 1rem;\">General Assembly Building Room 405&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">P.O. Box 406 Richmond, Virginia 23218&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Office: (804) 698-1000&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email: DelRBloxom@house.virginia.gov&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">District Office: P.O. Box 27, Mappsville, VA 23407&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\">Local Phone: (757) 824-3456&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Congressional phone bank:&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">202-225-3121&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Website: http://www.robbloxom.com/</span></p><p><span style=\"font-size: 1rem;\"><b>--------------------------------------</b></span></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><span style=\"font-size: 1rem;\"><b>Local Officials&nbsp;</b></span></p><p><span style=\"font-size: 1rem;\"><b>-------------------------------------</b></span></p><p><b>Northampton County Supervisors\n</b></p><p>\n<span style=\"font-size: 1rem;\">County Info Phone: 757-678-0440&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Website: http://www.co.northampton.va.us/gov/board.html&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\"><b>District 1: &nbsp;John Coker&nbsp;</b></span></p><p>\n<span style=\"font-size: 1rem;\">Email: jcoker@co.northampton.va.us&nbsp;</span></p><p><b>\n<span style=\"font-size: 1rem;\">District 2: &nbsp;David Fauber&nbsp;</span></b></p><p>\n<span style=\"font-size: 1rem;\">Email: dfauber@co.northampton.va.us&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\"><b>District 3: &nbsp;Oliver H. Bennett</b>&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Email: obennett@co.northampton.va.us&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>District 4: &nbsp;H. Spencer Murray</b>&nbsp;</span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">Email: smurray@co.northampton.va.us&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>District 5: &nbsp;Robert Duer</b>&nbsp;</span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">rduer@co.northampton.va.us&nbsp;</span></p><p>\n<b>-------------------------------------</b></p><p>&nbsp;\n<span style=\"font-size: 1rem;\"><b>Accomack County Supervisors&nbsp;</b></span></p><p>\n<span style=\"font-size: 1rem;\">County Info Phone: 757-787-5700&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Website: https://www.co.accomack.va.us/government/board-of-supervisors&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>District 1: &nbsp;William J. “Billy” Tarr&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">7079 Wayne Road, Chincoteague, VA 23336&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Home: (757) 336-2940&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email: btarr@co.accomack.va.us&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>District 2: &nbsp;Ron S. Wolff&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">P.O. Box 41, Atlantic, VA 23303&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Home: (757) 824-0383&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email: rwolff@co.accomack.va.us&nbsp;</span><br></p><p><b>\n<span style=\"font-size: 1rem;\">District 3: &nbsp;Grayson C. Chesser&nbsp;</span></b></p><p>\n<span style=\"font-size: 1rem;\">P.O. Box 12, Sanford, VA 23426&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Home: 757-824-3566&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Office: 757-824-9666&nbsp;</span></p><p><b>\n<span style=\"font-size: 1rem;\">District 4: &nbsp;Paul E. J. Muhly&nbsp;</span></b></p><p>\n<span style=\"font-size: 1rem;\">18174 Hopeton Road, Parksley, VA 23421&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Home: (757) 665-7310&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Email: pmuhly@co.accomack.va.us&nbsp;</span></p><p><b>\n<span style=\"font-size: 1rem;\">District 5: &nbsp;Harrison W. Phillips, III&nbsp;</span></b></p><p>\n<span style=\"font-size: 1rem;\">17028 Kegotank Road, Bloxom, VA 23308&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Home: (757) 665-5049&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email: hphillips@co.accomack.va.us&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>District 6: &nbsp;Robert Crockett, Chair&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">19130 Greenway Circle, Onancock, VA 23417&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Home: (757) 787-1881&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email:rcrockett@co.accomack.va.us&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>District 7: &nbsp;Laura Belle Gordy, Vice Chair&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">P.O. Box 253, Onley, VA 23418&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Home: (757) 787-2908&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email: lbgordy@co.accomack.va.us&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>District 8: &nbsp;Donald L. Hart Jr.&nbsp;</b></span><br><span style=\"font-size: 1rem;\"></span></p><p>\n<span style=\"font-size: 1rem;\">P.O. Box 100, Keller, VA 23401&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Home: (757) 787-7166&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Email: dhart@co.accomack.va.us</span></p><p><span style=\"font-size: 1rem;\"><b>--------------------------------------<br></b></span><br></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWFn2bhAx4",
           "_anchor": "content3-h",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {}
+        }
+      ]
+    },
+    "feedback.html": {
+      "settings": {
+        "meta_descr": "Please provide us with your feedback, coments and suggestions.",
+        "title": "Feedback",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Eastern Shore Democrats&nbsp;<br>Feedback</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\"><b>\n                    Please send us your feedback, comments and suggestions so that we can build a better newsletter. We greatly appreciate your input.</b></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qX2x0v81qs",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content4-12"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-secondary\" href=\"index.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-refresh mbr-iconfont mbr-iconfont-btn\"></span>Return Home</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qX2x3RMq3u",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content8-13"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".title": {
+              "margin-bottom": "2rem"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            "a:not([href]):not([tabindex])": {
+              "color": "#fff",
+              "border-radius": "3px"
+            },
+            "a.btn-white:not([href]):not([tabindex])": {
+              "color": "#333"
+            },
+            ".multi-horizontal": {
+              "flex-grow": "1",
+              "-webkit-flex-grow": "1",
+              "max-width": "100%"
+            },
+            ".input-group-btn": {
+              "display": "block",
+              "text-align": "center"
+            }
+          },
+          "_name": "form1",
+          "_customHTML": "<section class=\"mbr-section form1\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-lg-8\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    FEEDBACK FORM\n                </h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-section-subtitle\"><b>We will make every effort to respond to you as soon as possib;e</b></h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div mbr-form class=\"media-container-column col-lg-8\">\n                    <div data-form-alert hidden>\n                        Thanks for filling out the form!\n                    </div>\n            \n                    <form class=\"mbr-form\" action method=\"post\" name=\"Mobirise Form\">\n                        <div class=\"row row-sm-offset\">\n                            <div class=\"col-md-4 multi-horizontal\" data-for=\"name\">\n                                <div class=\"form-group\">\n                                    <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-7\" for=\"name\">Your Name</label>\n                                    <input type=\"text\" class=\"form-control\" name=\"name\" data-form-field=\"Name\" required>\n                                </div>\n                            </div>\n                            <div class=\"col-md-4 multi-horizontal\" data-for=\"email\">\n                                <div class=\"form-group\">\n                                    <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-7\" for=\"email\">Your Email</label>\n                                    <input type=\"email\" class=\"form-control\" name=\"email\" data-form-field=\"Email\" required>\n                                </div>\n                            </div>\n                            <div class=\"col-md-4 multi-horizontal\" data-for=\"phone\">\n                                <div class=\"form-group\">\n                                    <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-7\" for=\"phone\">Your Phone (Optional)</label>\n                                    <input type=\"tel\" class=\"form-control\" name=\"phone\" data-form-field=\"Phone\">\n                                </div>\n                            </div>\n                        </div>\n                        <div class=\"form-group\" data-for=\"message\">\n                            <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-7\" for=\"message\">What would you like to tell us?</label>\n                            <textarea type=\"text\" class=\"form-control\" name=\"message\" rows=\"7\" data-form-field=\"Message\"></textarea>\n                        </div>\n            \n                        <span mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" class=\"input-group-btn\"><a href type=\"submit\" class=\"btn btn-form btn-primary\" data-app-placeholder=\"Type Text\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>SEND YOUR FEEDBACK</a></span>\n                    </form>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qX2xdmOZ7y",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "form1-14"
         }
       ]
     }
