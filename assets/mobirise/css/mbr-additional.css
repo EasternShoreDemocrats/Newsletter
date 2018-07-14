@@ -1454,7 +1454,7 @@ body {
 .cid-qXOqXpfNHN {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qXOqXpfNHN .mbr-text,
 .cid-qXOqXpfNHN blockquote {
@@ -1466,7 +1466,7 @@ body {
 .cid-qXOr1QPrdR {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qXOr1QPrdR .mbr-text,
 .cid-qXOr1QPrdR blockquote {
@@ -1605,7 +1605,7 @@ body {
 .cid-qXOviWq2le {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qXOviWq2le .mbr-text,
 .cid-qXOviWq2le blockquote {
@@ -1708,16 +1708,20 @@ body {
 .cid-qXuWy5LRd5 .mbr-text B {
   color: #232323;
 }
-.cid-qXv4d7k6xj {
+.cid-qXOABbOnvb {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-qXv4d7k6xj .mbr-text {
+.cid-qXOABbOnvb .mbr-text,
+.cid-qXOABbOnvb blockquote {
   color: #767676;
 }
-.cid-qXv4d7k6xj .mbr-text P {
+.cid-qXOABbOnvb .mbr-text B {
   color: #232323;
+}
+.cid-qXOABbOnvb .mbr-text {
+  text-align: center;
 }
 .cid-qXv4eJNIuf {
   padding-top: 15px;
@@ -1727,7 +1731,7 @@ body {
 .cid-qXvHlA2w27 {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qXvHlA2w27 .mbr-text,
 .cid-qXvHlA2w27 blockquote {
@@ -1742,7 +1746,7 @@ body {
 .cid-qXvFgFlesS {
   padding-top: 15px;
   padding-bottom: 15px;
-  background: #ffffff;
+  background: #efefef;
 }
 .cid-qXvFgFlesS .video-block {
   margin: auto;
@@ -1755,7 +1759,7 @@ body {
 .cid-qXvFlQxrr9 {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qXvFlQxrr9 .mbr-text,
 .cid-qXvFlQxrr9 blockquote {
@@ -1780,7 +1784,7 @@ body {
 .cid-qXq0dedxW4 {
   padding-top: 0px;
   padding-bottom: 15px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-qXq0dedxW4 h4 {
   font-weight: 500;
@@ -1803,7 +1807,7 @@ body {
 .cid-qXvFaCnlCf {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qXvFaCnlCf .mbr-text,
 .cid-qXvFaCnlCf blockquote {
@@ -1818,7 +1822,7 @@ body {
 .cid-qXvLz4jUD0 {
   padding-top: 15px;
   padding-bottom: 15px;
-  background: #ffffff;
+  background: #efefef;
 }
 .cid-qXvLz4jUD0 .image-block {
   margin: auto;
@@ -1839,7 +1843,7 @@ body {
 .cid-qXvLCt4nH4 {
   padding-top: 15px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qXvLCt4nH4 .mbr-text,
 .cid-qXvLCt4nH4 blockquote {
