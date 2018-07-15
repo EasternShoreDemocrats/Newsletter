@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Eastern Shore Democrats Newsletter",
-    "currentPage": "index.html",
+    "currentPage": "2018elections.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -58,7 +58,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 94,
+    "uniqCompNum": 97,
     "versionPublish": "4.7.10",
     "favicon": "@PROJECT_PATH@/assets/images/dnc-donkey-logo-512x512-128x128.png",
     "noImageResize": "",
@@ -1334,6 +1334,27 @@
             ".mbr-text, blockquote": {
               "color": "#767676"
             },
+            ".mbr-text B": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>2018 Virginia Elections</b></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qXP979kAXD",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-2m"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
             ".mbr-text DIV": {
               "color": "#232323"
             },
@@ -1342,13 +1363,52 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Virginia 2018 Elections\n</b><div><a href=\"https://en.m.wikipedia.org/wiki/Virginia_elections,_2018\" target=\"_blank\">https://en.m.wikipedia.org/wiki/Virginia_elections,_2018\n</a></div><div>\n</div><div><br></div><div>On November 6, the state will hold the general election for all 11 of Virginia's House of Representative seats, as well as the Class 1 Senate seat. \n</div><div>\n</div><div><br></div><div><b>U. S. Senate</b> - Virginians will elect their Class 1 senator who will serve from 2019 until 2025. Incumbent Senator, Tim Kaine, is seeking a second term. He is facing challenges from Republican, Corey Stewart, and Libertarian, Matt Walters. The Commonwealth's Green and Constitution parties did not run candidates.\n</div><div>\n</div><div><br></div><div><b>U. S. House of Representatives</b> - Nine of the 11 incumbent Representatives are running for re-election. The Republican Party is defending seven seats, five of which are incumbents, and the Democratic Party is defending four seats, all of whom are incumbents. Ten of the 11 districts feature at least two candidates running, while three districts have third party candidates running.\n&nbsp;<span style=\"font-size: 1rem;\">In the Virginia Second District, Democrat Elaine Luria will run against Incumbent Republican Scott Taylor and Independent Shaun Brown.</span></div><div>\n</div><div><br></div><div><b>Amendments </b>- There are also two state constitutional amendments on the Nov. 6, 2018 ballot. Both proposed ballot amendments received nearly universal, bipartisan support in the Virginia House of Delegates and Senate. Those amendments are the Property Tax Exemption for Flood Abatement Amendment and the Remove Restriction on Residence for Surviving Spouse of Disabled Veteran Tax Exemption Amendment.\n</div><div><b><br></b></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 1rem;\">On November 6, the state will hold the general election for all 11 of Virginia's House of Representative seats, as well as the Class 1 Senate seat.</span><br></div><div>\n</div><div><br></div><div><b>U. S. Senate</b> - Virginians will elect their Class 1 senator who will serve from 2019 until 2025. Incumbent Senator, Tim Kaine, is seeking a second term. He is facing challenges from Republican, Corey Stewart, and Libertarian, Matt Walters. The Commonwealth's Green and Constitution parties did not run candidates.\n</div><div>\n</div><div><br></div><div><b>U. S. House of Representatives</b> - Nine of the 11 incumbent Representatives are running for re-election. The Republican Party is defending seven seats, five of which are incumbents, and the Democratic Party is defending four seats, all of whom are incumbents. Ten of the 11 districts feature at least two candidates running, while three districts have third party candidates running.\n&nbsp;<span style=\"font-size: 1rem;\">In the Virginia Second District, Democrat Elaine Luria will run against Incumbent Republican Scott Taylor and Independent Shaun Brown.</span></div><div>\n</div><div><br></div><div><b>Amendments </b>- There are also two state constitutional amendments on the Nov. 6, 2018 ballot. Both proposed ballot amendments received nearly universal, bipartisan support in the Virginia House of Delegates and Senate. Those amendments are the Property Tax Exemption for Flood Abatement Amendment and the Remove Restriction on Residence for Surviving Spouse of Disabled Veteran Tax Exemption Amendment.\n</div><div><b><br></b></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qXdrWwXBMH",
           "_anchor": "content1-1a",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text B": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Virginia Absentee Ballot Information</b></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qXP9uxSLIf",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-2n"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>The Commonwealth of Virginia has a very complicated set of rules and procedures concerning absentee ballots. Anyone desiring to cast an absentee ballot, for any reason, will be well served to read the rules and procedures as outlined on the Virginia Department of Elections webpage which can be found at: &nbsp;<a href=\"https://www.elections.virginia.gov/casting-a-ballot/absentee-voting/index.html\" target=\"_blank\">https://www.elections.virginia.gov/casting-a-ballot/absentee-voting/index.html</a></b></p><p><b><br></b></p><p><b>It will also be useful to check with the Registrar's&nbsp;</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qXP9w62Puh",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-2o"
         },
         {
           "_styles": {
@@ -1446,7 +1506,7 @@
             }
           },
           "_name": "video1",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#b2ccd2\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://youtu.be/xDyxb67M7mk?loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#b2ccd2\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://youtu.be/bih8JqcAHD0?loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
           "_cid": "qXdsiRxsMh",
           "_anchor": "video1-1c",
           "_protectedParams": [],
@@ -1467,7 +1527,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Sen. Tim Kaine</b> on tour throughout Virginia\n on&nbsp;<span style=\"font-size: 1rem;\">July 5, 2018 in Winchester, VA</span></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Sen. Tim Kaine</b>&nbsp;at the Blue Commonwealth Dinner om June 16, 2018.</div>\n        </div>\n    </div>\n</section>",
           "_cid": "qXduOwpBkd",
           "_anchor": "content1-1e",
           "_protectedParams": [],
