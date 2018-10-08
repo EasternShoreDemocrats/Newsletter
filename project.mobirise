@@ -45,7 +45,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 235,
+    "uniqCompNum": 236,
     "versionPublish": "4.8.1",
     "favicon": "@PROJECT_PATH@/assets/images/round-donkey-128x128.png",
     "noImageResize": "",
@@ -526,7 +526,7 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>\n                     The Accomack County Democratic Committee Oct.3rd meeting was very well attended as we learned about the Accomack County Registrar's Office and the ins-and-outs of absentee ballots.. </p><p>Accomack Registrar Patty White was our very special guest speaker. Over the course of her 45 minute presentation she was very informative and seemed to enjoy the interaction. White gave us a detailed explanation of the absentee ballot process including a walk-thru of the required forms and some helpful tips about completing and returning the forms. Along the way she welcomed our questions and made a special effort to ensure that we got useful answers. Contact Patty at <a href=\"tel:757-7872935\">(757) 787-2935</a> or <a href=\"mailto:govote@co.accomack.va.us\">govote@co.accomack.va.us</a>. Website:&nbsp;<a href=\"https://www.co.accomack.va.us/departments/registrar\" target=\"_blank\">https://www.co.accomack.va.us/departments/registrar</a></p><p><span style=\"font-size: 1rem;\">Paul &amp; Jane Berge reported on the independent bi-county Friends of Eastern Shore Democrats group. The Friends are planning a large old-time rally at Mary N. Smith School on Sunday, Oct. 21st from 1 pm to 4 pm. Plans have been finalized for music, food, fellowship and speeches from Sen. Tim Kaine, Elaine Luria, State Sen. Lynwood Lewis and other notable elected officials. Please help us spread the word and share with your friends on social media. <a href=\"https://easternshoredemocrats.com/images/AllFiredUpRally_Shareable.jpg\" target=\"_blank\">To download a printable or shareable event flyer please click here.</a></span><br></p><p><span style=\"font-size: 1rem;\"><b><i>Please see the important info further down in the newsletter about absentee balloting dates, deadlines and procedures.</i></b><br></span><br></p><p><br></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>The Coordinated Campaign Office located in the Edward Jones Building at 4045 Lankford Hwy., Exmore, VA 23350 held it's Grand Opening Celebation on Sunday, Oct. 7th. The office provides a much needed central location to coordinate and assist our many volunteers to make phone calls, door-to-door canvassing and other tasks. There are a limited number of Luria &amp; Kaine yard signs available at the office location. Contact Townsend Larmore for more information at <a href=\"mailto:townsend.larmore@virginiavictory.org\">townsend.larmore@virginiavictory.org</a></p><p>The \"Final 4\" is coming. The ACDC Cwill be making a special push during the last 4 days (Nov. 3-6) leading up to and including election day. They have rented space at the Historic Onancock School, 6 College Ave, Onancock, VA 23417. There will also be a North Accomack County \"Final 4\" location at Debra Wharton's house in Temperanceville, VA. Both locations will be busy doing canvassing, door knocking and providing transportation to the polls. For more info about Onancock contact contact Greg Temple at <a href=\"mailto:gregorytemple50@yahoo.com\">gregorytemple50@yahoo.com</a> or <a href=\"tel:757-4198984\">757-419-8984</a>&nbsp;or for Temperanceville contact Debra Wharton at <a href=\"tel:757-8245141\">757-824-5141</a> or <a href=\"mailto:dwhartonescsb@yahoo.com\">dwhartonescsb@yahoo.com</a> .&nbsp;</p><p><span style=\"font-size: 1rem;\">The November meeting date has changed. It will be held on November 1st @ 6 pm at the usual ES Chamber of Commerce Bldg. in Melfa.</span><br></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>\n                     The Accomack County Democratic Committee Oct.3rd meeting saw a full house crowd.&nbsp;<span style=\"font-size: 1rem;\">Accomack Registrar Patty White was our very special guest speaker. Over the course of her 45 minute presentation she was very informative and seemed to enjoy the interaction. White gave us a detailed explanation of the absentee ballot process including a walk-thru of the required forms and some helpful tips about completing and returning the forms. Along the way she welcomed our questions and made a special effort to ensure that we got useful answers. Contact Patty at </span><a href=\"tel:757-7872935\" style=\"font-size: 1rem; background-color: rgb(255, 255, 255);\">(757) 787-2935</a><span style=\"font-size: 1rem;\"> or </span><a href=\"mailto:govote@co.accomack.va.us\" style=\"font-size: 1rem; background-color: rgb(255, 255, 255);\">govote@co.accomack.va.us</a><span style=\"font-size: 1rem;\">. Website:&nbsp;</span><a href=\"https://www.co.accomack.va.us/departments/registrar\" target=\"_blank\" style=\"font-size: 1rem; background-color: rgb(255, 255, 255);\">https://www.co.accomack.va.us/departments/registrar</a></p><p><span style=\"font-size: 1rem;\">Paul &amp; Jane Berge reported on the independent bi-county Friends of Eastern Shore Democrats group. The Friends are planning a large old-time rally at Mary N. Smith School on Sunday, Oct. 21st from 1 pm to 4 pm. Plans have been finalized for music, food, fellowship and speeches from Sen. Tim Kaine, Elaine Luria, State Sen. Lynwood Lewis and other notable elected officials. Please help us spread the word and share with your friends on social media. There is a section below with more info on this rally.&nbsp;<a href=\"https://easternshoredemocrats.com/images/AllFiredUpRally_Shareable.jpg\" target=\"_blank\">To download a printable or shareable event flyer please click here.</a></span><br></p><p><span style=\"font-size: 1rem;\"><b><i>Please see the important info further down in the newsletter about absentee balloting dates, deadlines and procedures.</i></b><br></span><br></p><p><br></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>The Coordinated Campaign Office located in the Edward Jones Building at 4045 Lankford Hwy., Exmore, VA 23350 held it's Grand Opening Celebation on Sunday, Oct. 7th. The office provides a much needed central location to coordinate and assist our many volunteers to make phone calls, door-to-door canvassing and other tasks. There are a limited number of Luria &amp; Kaine yard signs available at the office location. Contact Townsend Larmore for more information at <a href=\"mailto:townsend.larmore@virginiavictory.org\">townsend.larmore@virginiavictory.org</a>&nbsp;or <a href=\"tel:757-9550828\">757-955-0828</a>.</p><p>The \"Final 4\" is coming. The ACDC will be making a special push during the last 4 days (Nov. 3-6) leading up to and including election day. They have rented space at the Historic Onancock School, 6 College Ave, Onancock, VA 23417. There will also be a North Accomack County \"Final 4\" location at Debra Wharton's house in Temperanceville, VA. Both locations will be busy doing canvassing, door knocking and providing transportation to the polls. For more info about Onancock contact contact Greg Temple at <a href=\"mailto:gregorytemple50@yahoo.com\">gregorytemple50@yahoo.com</a> or <a href=\"tel:757-4198984\">757-419-8984</a>&nbsp;or for Temperanceville contact Debra Wharton at <a href=\"tel:757-8245141\">757-824-5141</a> or <a href=\"mailto:dwhartonescsb@yahoo.com\">dwhartonescsb@yahoo.com</a> .&nbsp;</p><p><span style=\"font-size: 1rem;\">The November meeting date has changed. It will be held on November 1st @ 6 pm at the usual ES Chamber of Commerce Bldg. in Melfa.</span><br></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r2N4eJ8WKd",
           "_anchor": "content3-4b",
           "_protectedParams": [],
@@ -565,7 +565,7 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>\n                     The Northampton County Democratic Committee Oct. 2nd meeting kicked off with a brief reports from <a href=\"mailto:townsend.larmore@virginiavictory.org\">Townsend Larmore</a> of the Coordinated Campaign Office in Exmore and Ivanna Hall from the Virginia Coordinated Campaign gave very informative talks about how they are reaching out to assist local Democratic Committees to better connect with local voters. Both Townsend and Ivanna have been extremely helpful.</p><p>We also heard from Northampton County Registrar Terry Flynn who went over the responsibilities of his office for elections. He also emphasized that Northampton County's voting apparatus is safe from cyberattacks or other security concerns. Contact Terry at &nbsp;<a href=\"tel:757-6780480\">(757) 678-0480</a> or <a href=\"mailto:vote@co.northampton.va.us\">vote@co.northampton.va.us</a>. Website:&nbsp;<a href=\"http://www.co.northampton.va.us/gov/registrar/\" target=\"_blank\">http://www.co.northampton.va.us/gov/registrar/</a></p><p><a href=\"mailto:vote@co.northampton.va.us\">The Coordinated Campaign</a> Office, in the Edward Jones Building at 4045 Lankford Hwy., Exmore, VA 23350 held it's Grand Opening Celebration on Oct. 7th. The office needs volunteers to make phone calls, door-to-door canvassing and other tasks. There will be a limited number of Luria &amp; Kaine yard signs available at the office. Contact Townsend Larmore at <a href=\"mailto:townsend.larmore@virginiavictory.org\">townsend.larmore@virginiavictory.org</a> or Linda Schulz at <a href=\"mailto:llschulz1@aol.com\">llschulz1@aol.com</a>.</p><p>Paul &amp; Jane Berge reported on the independent bi-county Friends of Eastern Shore Democrats group. The Friends are planning a large old-time rally at Mary N.&nbsp;</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>Smith School on Sunday, Oct. 21st from 1 pm to 4 pm. Plans have been finalized for music, food, fellowship and speeches from Sen. Tim Kaine, Elaine Luria, State Sen. &nbsp;Lynwood Lewis and other notable elected officials. Please help us spread the word and share with your friends on social media. <a href=\"https://easternshoredemocrats.com/images/AllFiredUpRally_Shareable.jpg\">To download a printable or shareable event flyer please click here.</a></p><p>Ivanna Hall emphasized the importance of following the Virginia Coordinated Campaign canvassing plan that has been developed. We will still need to knock on doors and contact about 3,000 more likely Democratic voters to ensure a victory at the polls in November. As members of the Northampton Committee your volunteer time and efforts are absolutely essential in helping to achieve these lofty goals.&nbsp;</p><p>Bob Toner talked about outreach, upcoming voter registration events and absentee ballots. For more information about these topics please contact Bob Toner at <a href=\"mailto:mbtoner@verizon.net\">mbtoner@verizon.net</a> or <a href=\"tel:757-4422676\">757-442-2676</a> for information or to volunteer.&nbsp;</p><p><span style=\"font-size: 1rem;\">Bill Payne reported on Fundraising and Precinct Operations. Contact Bill Payne at <a href=\"mailto:payne1942@msn.com\">payne1942@msn.com</a> for more information or to volunteer.</span></p><p><span style=\"font-size: 1rem;\">Please note that our November meeting date has changed. The Nov. meeting will be held after the elections on Nov. 13th @ 7 pm.&nbsp;</span></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>\n                     The Northampton County Democratic Committee Oct. 2nd meeting kicked off with a brief reports from <a href=\"mailto:townsend.larmore@virginiavictory.org\">Townsend Larmore</a> of the Coordinated Campaign Office in Exmore and Ivanna Hall from the Virginia Coordinated Campaign. They gave very informative talks about how they are reaching out to assist local Democratic Committees to better connect with local voters. Both Townsend and Ivanna have been extremely helpful.</p><p>We also heard from Northampton County Registrar Terry Flynn who went over the responsibilities of his office for elections. He also emphasized that Northampton County's voting apparatus is safe from cyberattacks or other security concerns. Contact Terry at &nbsp;<a href=\"tel:757-6780480\">(757) 678-0480</a> or <a href=\"mailto:vote@co.northampton.va.us\">vote@co.northampton.va.us</a>. Website:&nbsp;<a href=\"http://www.co.northampton.va.us/gov/registrar/\" target=\"_blank\">http://www.co.northampton.va.us/gov/registrar/</a></p><p><a href=\"mailto:vote@co.northampton.va.us\">The Coordinated Campaign</a> Office, in the Edward Jones Building at 4045 Lankford Hwy., Exmore, VA 23350 held it's Grand Opening Celebration on Oct. 7th. The office needs volunteers to make phone calls, door-to-door canvassing and other tasks. There will be a limited number of Luria &amp; Kaine yard signs available at the office. Contact Townsend Larmore at <a href=\"mailto:townsend.larmore@virginiavictory.org\">townsend.larmore@virginiavictory.org</a>&nbsp;or <a href=\"tel:757-9550828\">757-955-0828</a></p><p>Paul &amp; Jane Berge reported on the independent bi-county Friends of Eastern Shore Democrats group. The Friends are planning a large old-time rally at Mary N.&nbsp;</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>Smith School on Sunday, Oct. 21st from 1 pm to 4 pm. Plans have been finalized for music, food, fellowship and speeches from Sen. Tim Kaine, Elaine Luria, State Sen. &nbsp;Lynwood Lewis and other notable elected officials. Please help us spread the word and share with your friends on social media. There is a section below with more info on this rally.&nbsp;<a href=\"https://easternshoredemocrats.com/images/AllFiredUpRally_Shareable.jpg\">To download a printable or shareable event flyer please click here.</a></p><p>Ivanna Hall emphasized the importance of following the Virginia Coordinated Campaign canvassing plan that has been developed. We will still need to knock on doors and contact about 3,000 more likely Democratic voters to ensure a victory at the polls in November. As members of the Northampton Committee your volunteer time and efforts are absolutely essential in helping to achieve these lofty goals.&nbsp;</p><p>Bob Toner talked about outreach, upcoming voter registration events and absentee ballots. For more information about these topics please contact Bob Toner at <a href=\"mailto:mbtoner@verizon.net\">mbtoner@verizon.net</a> or <a href=\"tel:757-4422676\">757-442-2676</a> for information or to volunteer.&nbsp;</p><p><span style=\"font-size: 1rem;\">Bill Payne reported on Fundraising and Precinct Operations. Contact Bill Payne at <a href=\"mailto:payne1942@msn.com\">payne1942@msn.com</a> for more information or to volunteer.</span></p><p><span style=\"font-size: 1rem;\">Please note that our November meeting date has changed. The Nov. meeting will be held after the elections on Nov. 13th @ 7 pm.&nbsp;</span></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r2MTXYCMkU",
           "_anchor": "content3-4a",
           "_protectedParams": [],
@@ -799,19 +799,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/cco15-1875x1407.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cco15-1875x1407-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/cco14-1875x1407.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cco14-1875x1407-800x600.jpg",
                 "alt": "",
@@ -831,10 +818,44 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/cco15-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cco15-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
           }
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>We had a very enthusiastic turnout at the Coordinated Office Opening Celebration and at the Elaine Luria Fundraiser featuring House Democratic Whip Steny Hoyer, as you can see from the photos above. State Senator Lynwood Lewis showed up to celebrate with us.&nbsp;</div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r5T95ygzMw",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-6j"
         },
         {
           "_styles": {
@@ -863,6 +884,9 @@
               "color": "#767676"
             },
             ".mbr-text B": {
+              "color": "#232323"
+            },
+            ".mbr-text": {
               "color": "#232323"
             }
           },
@@ -1094,7 +1118,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Phone Banking <br>&amp; Door Knocking</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">The Importance of Phone Banking &amp; Door Knocking</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r5OM5NaAWf",
           "_anchor": "content4-5s",
           "_protectedParams": [],
@@ -1118,7 +1142,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>The Coordinated Campaign Office in Exmore needs your help in phone banking and canvassing operations thru Election Day. If we truly want to create a Blue Wave it is imperative that we personally contact prospective voters in Accomack and Northampton to get them to the polls and voting Democratic. Campaign strategy says that winning is only possible if we directly contact and persuade enough voters. We need to contact over 3,000 more voters before Nov. 6. The Coordinated Campaign Office will be hosting Get Out The Vote weekends on Oct. 20-21, Oct. 27-28 and Nov. 3-4. <a href=\"mailto:townsend.larmore@virginiavictory.org\">Please contact Townsend Larmore to volunteer to phone bank or canvass at any time but especially on evenings or weekends.</a></p><p>High-quality phone banking and canvassing operations are consistent vote-winners. By far the most effective way to turn out voters is with high-quality conversations that urge them to vote. Just one personal conversation had a profound effect on a voter’s likelihood to go to the polls, boosting turnout by a noticeable percentage. Canvassing seems to work best when voters who don’t care much about politics engage in a genuine conversation about why voting is important. So, when canvassers rush through scripted interactions, just trying to cram their message into voters’ minds, the impacts they leave are minimal — voters might as well have been sitting through a television ad. On the other hand, research has consistently found that authentic interpersonal exchanges usually have sizable impacts. Be that person.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>The Coordinated Campaign Office in Exmore needs your help in phone banking and canvassing operations thru Election Day. If we truly want to create a Blue Wave it is imperative that we personally contact prospective voters in Accomack and Northampton to get them to the polls and voting Democratic. Campaign strategy says that winning is only possible if we directly contact and persuade enough voters. We need to contact over 3,000 more voters before Nov. 6. The Coordinated Campaign Office will be hosting Get Out The Vote weekends on Oct. 20-21, Oct. 27-28 and Nov. 3-4. Please contact Townsend Larmore at <a href=\"tel:757-9550828\">757-955-0828</a> or <a href=\"mailto:townsend.larmore@virginiavictory.org\">townsend.larmore@virginiavictory.org</a> to help with phone bank or canvass operations at any time but especially on evenings or weekends.</p><p>High-quality phone banking and canvassing operations are consistent vote-winners. By far the most effective way to turn out voters is with high-quality conversations that urge them to vote. Just one personal conversation had a profound effect on a voter’s likelihood to go to the polls, boosting turnout by a noticeable percentage. Canvassing seems to work best when voters who don’t care much about politics engage in a genuine conversation about why voting is important. So, when canvassers rush through scripted interactions, just trying to cram their message into voters’ minds, the impacts they leave are minimal — voters might as well have been sitting through a television ad. On the other hand, research has consistently found that authentic interpersonal exchanges usually have sizable impacts. Be that person.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r5OMeqS4MZ",
           "_anchor": "content1-5t",
           "_protectedParams": [],
@@ -1142,7 +1166,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Political phone banking is used not to convince or swing voter decision but to find committed voters. Once volunteers understand the purpose of the phone campaign, it keeps them motivated as they get to be part of the campaign instead of being mere supporters.</p><p>Here are some tips that will help you be a better phone banker.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Political phone banking is used not to convince or swing voter decision but to find committed voters. Once volunteers understand the purpose of the phone campaign, it keeps them motivated as they get to be part of the campaign instead of being mere supporters.</p><p>Here are some ideas and tips that will help you be a better phone banker.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r5ONuKWpCu",
           "_anchor": "content1-5w",
           "_protectedParams": [],
@@ -1197,7 +1221,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Personal conversations are the most effective way to drive people to the polls on election day. Every door knocked and every conversation is a step toward victory.</p><p>Here are some tips that will help you become a better canvasser,</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Personal conversations are the most effective way to drive people to the polls on election day. Every door knocked and every conversation is a step toward victory.</p><p>Here are some ideas and tips that will help you become a better door knocker or canvasser,</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r5ONw8RoAt",
           "_anchor": "content1-5x",
           "_protectedParams": [],
@@ -1287,6 +1311,24 @@
         },
         {
           "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Elaine Luria Talks About&nbsp;<br>Health Care, Sea-Level Rise &amp; Education</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r5OZKFjvLZ",
+          "_anchor": "content4-5y",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
             "& when (@fullWidth = false)": {
               "padding-top": "(@paddingTop * 15px)",
               "padding-bottom": "(@paddingBottom * 15px)"
@@ -1316,27 +1358,9 @@
             }
           },
           "_name": "image1",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/luria-kiwanis-wiliamsburg-750x422.jpg\" width=\"1400\" alt=\"Elaine Luria at Williamsburg Kiwanis\" title=\"Elaine Luria at Williamsburg Kiwanis\">\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/luria-kiwanis-wiliamsburg-750x422.jpg\" width=\"1400\" alt=\"Elaine Luria at Williamsburg Kiwanis\" title=\"Elaine Luria at Williamsburg Kiwanis\">\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "r5P2kyLgBS",
           "_anchor": "image1-61",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-section-subtitle": {
-              "color": "#767676"
-            }
-          },
-          "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Elaine Luria Talks About&nbsp;<br>Health Care, Sea-Level Rise &amp; Education</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r5OZKFjvLZ",
-          "_anchor": "content4-5y",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1351,6 +1375,9 @@
               "color": "#767676"
             },
             ".mbr-text P": {
+              "color": "#232323"
+            },
+            ".mbr-text DIV": {
               "color": "#232323"
             }
           },
@@ -1461,7 +1488,7 @@
             }
           },
           "_name": "content12",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>SEPTEMBER 21st</b>&nbsp;-<b> </b>Early Absentee Voting Starts on September 21, 2018.</li><li><b>OCTOBER 15th</b>&nbsp;- Last day to register to vote or update your address for the Nov. 6 election. <i>If you move, your polling place will change. Be sure to update your voter registration address every time you move. </i><a href=\"https://www.virginia.gov/services/register-to-vote/\" target=\"_blank\">https://www.virginia.gov/services/register-to-vote/</a></li>\n                    <li><b>OCTOBER 30th by 5 PM</b> - Deadline to request that an absentee ballot be mailed to you. Or <a href=\"http://elections.virginia.gov/Files/Forms/VoterForms/VirginiaAbsenteeBallotApplication.pdf\" target=\"_blank\">download the form here</a>&nbsp;or <a href=\"https://vote.elections.virginia.gov/VoterInformation\" target=\"_blank\">fill out the online request here</a>.</li><li><span style=\"font-size: 1rem;\"><b>NOVEMBER 3rd</b> - Deadline to vote an absentee ballot, in person, at <a href=\"https://vote.elections.virginia.gov/VoterInformation/PublicContactLookup\" target=\"_blank\">your local voter registration office</a>.</span></li><li><b>NOVEMBER 6th</b> - Election Day! Polls oven 6 am to 7 pm. <a href=\"https://vote.elections.virginia.gov/VoterInformation\" target=\"_blank\">Look up your polling location here</a>.</li><li><b>FIND OUT MORE</b> at <a href=\"https://www.elections.virginia.gov/voter-outreach/\" target=\"_blank\"><b>VOTE.VIRGINIA.GOV</b></a> or <b>(800) 552-9745</b> or <b>TTY 711</b>.</li></ul><ul>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>SEPTEMBER 21st</b>&nbsp;-<b> </b>Early Absentee Voting Started on September 21, 2018.</li><li><b>OCTOBER 15th</b>&nbsp;- Last day to register to vote or update your address for the Nov. 6 election. <i>If you move, your polling place will change. Be sure to update your voter registration address every time you move. </i><a href=\"https://www.virginia.gov/services/register-to-vote/\" target=\"_blank\">https://www.virginia.gov/services/register-to-vote/</a></li>\n                    <li><b>OCTOBER 30th by 5 PM</b> - Deadline to request that an absentee ballot be mailed to you. Or <a href=\"http://elections.virginia.gov/Files/Forms/VoterForms/VirginiaAbsenteeBallotApplication.pdf\" target=\"_blank\">download the form here</a>&nbsp;or <a href=\"https://vote.elections.virginia.gov/VoterInformation\" target=\"_blank\">fill out the online request here</a>.</li><li><span style=\"font-size: 1rem;\"><b>NOVEMBER 3rd</b> - Deadline to vote an absentee ballot, in person, at <a href=\"https://vote.elections.virginia.gov/VoterInformation/PublicContactLookup\" target=\"_blank\">your local voter registration office</a>.</span></li><li><b>NOVEMBER 6th</b> - Election Day! Polls oven 6 am to 7 pm. <a href=\"https://vote.elections.virginia.gov/VoterInformation\" target=\"_blank\">Look up your polling location here</a>.</li><li><b>FIND OUT MORE</b> at <a href=\"https://www.elections.virginia.gov/voter-outreach/\" target=\"_blank\"><b>VOTE.VIRGINIA.GOV</b></a> or <b>(800) 552-9745</b> or <b>TTY 711</b>.</li></ul><ul>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r2Tvj8HQ85",
           "_anchor": "content12-4c",
           "_protectedParams": [],
@@ -1576,7 +1603,7 @@
             }
           },
           "_name": "content12",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li>Highest number of absentee voting ballots requested/submitted so far is in VA-10 (all of Clarke, Frederick, and Loudoun and the Independent Cities of Manassas, Manassas Park, Winchester, along with portions of Fairfax, and Prince William) between incumbent Barbara Comstock (R) and Jennifer Wexton (D). Absentee voting has almost doubled from a similar point in 2017, with 7,508 last year and 14,015 this year. Women’s share of absentee ballots has gone from 51% in 2017 to 54% in 2018, The big change is youth voters (18-25) which has gone from 22% of ballots submitted to 36%. (1673 ballots to 5086 ballots). All of these numbers favor Wexton. What I don't know is if these changes are peculiar to VA-10 or if they are trends which may show up in the other districts.</li>\n                    <li>Second highest number of absentee voting ballots requested/submitted so far is in VA-08 where Rep. Don Beyer (D) is heavily favored.</li>\n                    <li>Third-highest number of absentee voting ballots requested/submitted so far, which is in strongly “blue” VA-11 and which also does not have a competitive House race, as Rep. Gerry Connolly (D) easily leads Jeff Dove (R).</li><li>Fourth-highest number is VA-07 with a highly competitive race between Dave Brat (R) and Abigail Spanberger (D). Interestingly, 29% of those VA-07 absentees were requested by young voters (aged 18-25)</li><li>Fifth-highest is VA-01 where Rep. Rob Wittman (R) faces off against Vangie Williams (D). Strangely, VA-01 and the other two solidly “red” districts in Virginia (VA-06 and VA-09) have very low numbers of absentees so far</li><li><b>Sixth-highest is VA-02, another very competitive, “purple” district, with Rep. Scott Taylor (R) up against former Navy Commander Elaine Luria (D). The number of absentees in VA-02 is far lower than in VA-10 (the Comstock vs. Wexton slugfest) which is kind of puzzling. Note that out of the 6,739 VA-02 absentees, about 58% are coming from Virginia Beach, which went 52%-47% for Ralph Northam last year. Another 7% are coming from Norfolk City, which went nearly 3:1 for Northam last year; and about 7% coming from Accomack County, which went 54%-46% for Ed Gillespie last year. Based on these numbers, VA-02 looks close right now.</b></li><li>VA-05, another “purple” district with a potentially competitive race (Leslie Cockburn (D) and Denver Riggleman (R). One good sign for Dems in VA-05 is that about 13% of absentees are coming from deep-blue Charlottesville, with another 28% coming from blue Albemarle County, which went 64%-35% for Ralph Northam last year.</li><li>VA-04 is strongly Democratic and not at all competitive (Rep. Donald McEachin (D). </li><li>VA-03 numbers are low even though it is strongly Democratic and heavily African American.</li><li>Finally, VA-09 has very low absentee numbers in one of the “Trumpiest” CDs anywhere.</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li>The highest number of absentee voting ballots requested/submitted so far is in VA-10 where incumbent Barbara Comstock (R) and Jennifer Wexton (D) are engaged in a very close race. Absentee voting has almost doubled from a similar point in 2017, with 7,508 last year and 14,015 this year. Women’s share of absentee ballots has gone from 51% in 2017 to 54% in 2018, The big change is youth voters (18-25) which has gone from 22% of ballots submitted to 36%. (1673 ballots to 5086 ballots). All of these numbers favor Wexton.&nbsp;</li>\n                    <li>Second highest number of absentee voting ballots requested/submitted so far is in VA-08 where Rep. Don Beyer (D) is heavily favored.</li>\n                    <li>Third-highest number of absentee voting ballots requested/submitted so far, which is in strongly “blue” VA-11 and which also does not have a competitive House race, as Rep. Gerry Connolly (D) easily leads Jeff Dove (R).</li><li>Fourth-highest number is VA-07 with a highly competitive race between Dave Brat (R) and Abigail Spanberger (D). Interestingly, 29% of those VA-07 absentees were requested by young voters (aged 18-25)</li><li>Fifth-highest is VA-01 where Rep. Rob Wittman (R) faces off against Vangie Williams (D). Strangely, VA-01 and the other two solidly “red” districts in Virginia (VA-06 and VA-09) have very low numbers of absentees so far</li><li>Sixth-highest is VA-02, another very competitive, “purple” district, with Rep. Scott Taylor (R) up against former Navy Commander Elaine Luria (D). The number of absentees in VA-02 is far lower than in VA-10 (the Comstock vs. Wexton slugfest) which is kind of puzzling. Note that out of the 6,739 VA-02 absentees, about 58% are coming from Virginia Beach, which went 52%-47% for Ralph Northam last year. Another 7% are coming from Norfolk City, which went nearly 3:1 for Northam last year; and about 7% coming from Accomack County, which went 54%-46% for Ed Gillespie last year. Based on these numbers, VA-02 looks close right now.</li><li>VA-05, another “purple” district with a potentially competitive race (Leslie Cockburn (D) and Denver Riggleman (R). One good sign for Dems in VA-05 is that about 13% of absentees are coming from deep-blue Charlottesville, with another 28% coming from blue Albemarle County, which went 64%-35% for Ralph Northam last year.</li><li>VA-04 is strongly Democratic and not at all competitive (Rep. Donald McEachin (D). </li><li>VA-03 numbers are low even though it is strongly Democratic and heavily African American.</li><li>Finally, VA-09 has very low absentee numbers in one of the “Trumpiest” CDs anywhere.</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r5PbscdwTo",
           "_anchor": "content12-67",
           "_protectedParams": [],
@@ -1615,7 +1642,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">How To Vote - Absentee Ballot</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">See our website for even more&nbsp;<a href=\"https://easternshoredemocrats.com/voting.html\" target=\"_blank\">Virginia Voting Information</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Voting By Absentee Ballot</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">See our website for even more&nbsp;<a href=\"https://easternshoredemocrats.com/voting.html\" target=\"_blank\">Virginia Voting Information</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r0k7BpA39D",
           "_anchor": "content4-e",
           "_protectedParams": [],
@@ -1757,6 +1784,99 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    All Fired Up To Vote Rally</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Organized by The Friends of Eastern Shore Democrats</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r5PDtMLalV",
+          "_anchor": "content4-6d",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>The newly formed Friends of Eastern Shore Democrats group will be sponsoring a vintage political rally to Get Out The Vote (GOTV) on Sunday, Oct. 21st from 1 p.m. at the Mary N. Smith Cultural Enrichment Center located at 24577 Mary N. Smith Road, Accomac, VA 23301.\n</p><p>\n<span style=\"font-size: 1rem;\">Doors will open at 1 p.m. and there will be free hot dogs and sodas, musical performances and socializing until 2 p.m when the guest speakers will address the attendees. The guest speakers will be Sen. Tim Kaine, VA-02 Candidate Elaine Luria and State Senator Lynwood Lewis.&nbsp;</span></p><p><span style=\"font-size: 1rem;\">This is a rally to inspire the Eastern Shore to get All Fired Up To Vote. Early voting is now open in Virginia and we will have tables set up and staffed with volunteers to provide information about absentee voting. They will have the required forms on site and can assist you in filling them out. Click here for more information about voting. Make your plans to join us for an afternoon of fun, food and politics.</span></p><p><span style=\"font-size: 1rem;\">Please help us advertise this event by downloading a copy of the event poster and then either sharing it on your social media pages or by printing out copies and handing them out at churches and other public gatherings.&nbsp;<br></span><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r5PG9qrrOK",
+          "_anchor": "content1-6g",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://easternshoredemocrats.com/images/All%20Fired%20Up%20Rally%20Flyer.pdf\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>Download PDF Version</a> <a class=\"btn btn-primary\" href=\"https://easternshoredemocrats.com/images/All%20Fired%20Up%20Rally%20Flyer.jpg\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>Download JPG Version</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r5PDG9ZhNX",
+          "_anchor": "content8-6f",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image1",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/all-fired-up-rally-flyer-816x1056.jpg\" width=\"1400\" alt=\"All Fired Up To Vote Rally\" title=\"All Fired Up To Vote Rally\">\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_cid": "r5PDzRVTjB",
+          "_anchor": "image1-6e",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
               "color": "#232323"
             }
           },
@@ -1842,12 +1962,67 @@
             },
             ".mbr-text B": {
               "color": "#232323"
+            },
+            ".mbr-text P": {
+              "color": "#232323"
+            },
+            ".mbr-text DIV": {
+              "color": "#232323"
             }
           },
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Who is the Democrat?</b> Elaine Luria is a former US Navy commander who now runs an art studio. She has earned the Democratic Congressional Campaign Committee’s Red to Blue imprimatur, which means the national party thinks she’s shown she can be a credible candidate. She also has the endorsements of Emily’s List and End Citizens United.\n Most importantly, Elaine has won our trust and respect!</p><p><b>Who is the Republican? </b>Rep. Scott Taylor, former state legislator, first elected in 2016. He voted for Obamacare repeal, the tax bill, and a 20-week abortion ban.\n</p><div>\n</div><div><b style=\"font-size: 1rem;\">What’s the story here? </b><span style=\"font-size: 1rem;\"><a href=\"https://www.cookpolitical.com/\" target=\"_blank\">The Cook Political Report</a> considers this a Toss-Up. <a href=\"http://crystalball.centerforpolitics.org/crystalball/2018-house/\" target=\"_blank\">Larry Sabato's Crystal Ball </a>also rates this race as a Toss-Up. In 2016 Taylor won handily and Trump beat Hillary Clinton by just 3 points. It’s a pretty diverse district too: 68 percent white, 20 percent black, 5 percent Asian, 5 percent Latino.&nbsp;</span></div><div><br></div><div><b>\n</b></div><div>Taylor's bigger liabilities could be his votes for the GOP healthcare and tax bills and the lack of a competitive statewide race to drive GOP voters to the polls. Democratic Sen. Tim Kaine is expected to carry the 2nd CD easily and could sweep Luria in with him.</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r5Pv3Ps7Z0",
           "_anchor": "content1-6c",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Sen. Tim Kaine on Healthcare</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">What reforms would you support or propose to manage costs in the healthcare system?</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r0kAE2qICR",
+          "_anchor": "content4-t",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".video-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".video-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "video1",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"79\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#b2ccd2\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://youtu.be/1TtF9mD--J0?loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
+          "_cid": "r0kABbkwMp",
+          "_anchor": "video1-s",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1897,212 +2072,6 @@
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"75\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#b2ccd2\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://youtu.be/jT9x5HNm2Ic?loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
           "_cid": "r0kw7IpU04",
           "_anchor": "video1-o",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-section-subtitle": {
-              "color": "#232323"
-            }
-          },
-          "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Minister Dr. Veronica Coleman's Endorsement of Elaine Luria</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\"></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r0kypDjUW0",
-          "_anchor": "content4-q",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "background": "@bgColor",
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(45deg, @bgColor, @color2)"
-            },
-            ".video-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".video-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "video1",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"79\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#b2ccd2\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://youtu.be/_psaVFdtbXM?loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
-          "_cid": "r0kyrOoxYA",
-          "_anchor": "video1-r",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-section-subtitle": {
-              "color": "#232323"
-            }
-          },
-          "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Sen. Tim Kaine on Healthcare</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">What reforms would you support or propose to manage costs in the healthcare system?</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r0kAE2qICR",
-          "_anchor": "content4-t",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "background": "@bgColor",
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(45deg, @bgColor, @color2)"
-            },
-            ".video-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".video-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "video1",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"79\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#b2ccd2\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://youtu.be/1TtF9mD--J0?loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
-          "_cid": "r0kABbkwMp",
-          "_anchor": "video1-s",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text": {
-              "color": "#232323"
-            }
-          },
-          "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>The last major primary night before the November election packed a major surprise: Tallahassee Mayor Andrew Gillum&nbsp;<span style=\"font-size: 1rem;\">.&nbsp;</span></p><div>\n</div><p></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><span style=\"font-size: 1rem;\">But their victories serve as a reminder of how potent the black vote is within the current incarnation of the Democratic Party.&nbsp;</span></p><p><span style=\"font-size: 1rem;\"></span></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r0kALgHByF",
-          "_anchor": "content3-w",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-section-subtitle": {
-              "color": "#767676"
-            }
-          },
-          "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    All Fired Up To Vote Rally</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Hosted by Friends of Eastern Shore Democrats</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r5PDtMLalV",
-          "_anchor": "content4-6d",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>The newly formed Friends of Eastern Shore Democrats group will be sponsoring a vintage political rally to Get Out The Vote (GOTV) on Sunday, Oct. 21st from 1 p.m. at the Mary N. Smith Cultural Enrichment Center located at 24577 Mary N. Smith Road, Accomac, VA 23301.</b></p><p><b>Doors will open at 1 p.m. and there will be free hot dogs and sodas, musical performances and socializing until 2 p.m when the guest speakers will address the attendees. The guest speakers will be Sen. Tim Kaine, VA-02 Candidate Elaine Luria and State Senator Lynwood Lewis.</b></p><p><b>This is a rally to inspire the Eastern Shore to get All Fired Up To Vote. Early voting is now open in Virginia and we will have tables set up and staffed with volunteere to provide information about absentee voting. They will have the required forms on site and can assist you in filling them out. <a href=\"https://easternshoredemocrats.com/voting.html\" target=\"_blank\">Click here for more information about voting</a>. Make your plans to join us for an afternoon of fun, food and politics.</b></p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r5PG9qrrOK",
-          "_anchor": "content1-6g",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "background": "@bgColor",
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(45deg, @bgColor, @color2)"
-            },
-            ".image-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            "figcaption": {
-              "position": "relative",
-              "div": {
-                "position": "absolute",
-                "bottom": "0",
-                "width": "100%"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".image-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "image1",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/all-fired-up-rally-flyer-816x1056.jpg\" width=\"1400\" alt=\"All Fired Up To Vote Rally\" title=\"All Fired Up To Vote Rally\">\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
-          "_cid": "r5PDzRVTjB",
-          "_anchor": "image1-6e",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor"
-          },
-          "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://easternshoredemocrats.com/images/All%20Fired%20Up%20Rally%20Flyer.pdf\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>Download PDF Version</a> <a class=\"btn btn-primary\" href=\"https://easternshoredemocrats.com/images/All%20Fired%20Up%20Rally%20Flyer.jpg\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>Download JPG Version</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r5PDG9ZhNX",
-          "_anchor": "content8-6f",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -2191,7 +2160,7 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->  \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#cccccc\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content text-white\">\n            <div class=\"col-12 col-md-3\">\n                <div class=\"media-wrap\">\n                    <a href=\"https://mobirise.com/\">\n                        <img src=\"@PROJECT_PATH@/assets/images/round-donkey-189x189.jpg\" alt=\"Mobirise\" title>\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">Links</h5>\n                <p class=\"mbr-text\"><a href=\"https://easternshoredemocrats.com/links.html\" target=\"_blank\">Links We Like</a></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Register To Vote</h5>\n                <p class=\"mbr-text\">Access the <a href=\"https://www.virginia.gov/services/register-to-vote/\" target=\"_blank\">Virginia Department of Elections website</a> to register to vote online, to review your current voter registration status, and/or submit updates to your voter registration.</p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Notices</h5>\n                <p class=\"mbr-text\">© 2018 Eastern Shore Democrats - All Rights Reserved<br>Authorized and paid for by the Accomack County and Northampton County Democratic Committees</p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\"></p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-twitter socicon\" style=\"font-size: 48px; color: rgb(20, 157, 204);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-facebook socicon\" style=\"font-size: 48px; color: rgb(20, 157, 204);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->  \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#cccccc\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content text-white\">\n            <div class=\"col-12 col-md-3\">\n                <div class=\"media-wrap\">\n                    <a href=\"https://mobirise.com/\">\n                        <img src=\"@PROJECT_PATH@/assets/images/round-donkey-189x189.jpg\" alt=\"Mobirise\" title>\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">Links</h5>\n                <p class=\"mbr-text\"><a href=\"https://easternshoredemocrats.com/links.html\" target=\"_blank\">Links We Like</a></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Register To Vote</h5>\n                <p class=\"mbr-text\">Access the <a href=\"https://www.virginia.gov/services/register-to-vote/\" target=\"_blank\">Virginia Department of Elections website</a> to register to vote online, to review your current voter registration status, and/or submit updates to your voter registration.</p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Notices</h5>\n                <p class=\"mbr-text\">© 2018 Eastern Shore Democrats - All Rights Reserved<br>Authorized and paid for by the Accomack County and Northampton County Democratic Committees</p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\"></p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-twitter socicon\" style=\"font-size: 48px; color: rgb(20, 157, 204);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-facebook socicon\" style=\"font-size: 48px; color: rgb(20, 157, 204);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qTkAaeaxX5",
           "_anchor": "footer1-2",
           "_protectedParams": [],
