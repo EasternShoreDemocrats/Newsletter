@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESD Newsletter",
-    "currentPage": "page3.html",
+    "currentPage": "newsletter.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -525,11 +525,11 @@
           "_name": "content10",
           "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>\n                    The Accomack County Democratic Committee will NOT be holding a committee meeting in December. We will resume our regular meeting schedule @ 6 pm on Wednesday, Jan. 2, 2019 at the ES Chamber of Commerce Building in Melfa.<br><br>Please check our website at <a href=\"https://easternshoredemocrats.com\" target=\"_blank\" class=\"text-secondary\">https://easternshoredemocrats.com</a> for further information, updates or changes.</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_cid": "r9S0xSgfEo",
+          "_anchor": "content10-8g",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content10-8g"
+          "_params": {}
         },
         {
           "_styles": {
@@ -598,13 +598,13 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Thank You To All Of Our Volunteers</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Your hard work and tireless efforts were essential ingetting people out to vote and wrapping up this big electoral vistory.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Thank You To All Of Our Volunteers</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Your hard work and tireless efforts were essential in getting people out to vote and wrapping up this big electoral victory.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r9S2Re6tsN",
+          "_anchor": "content4-8h",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-8h"
+          "_params": {}
         },
         {
           "_styles": {
@@ -616,7 +616,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Tuesday, November 6th was a historic day. It was the day that Eastern Shore Democrats realized the fruits of victory after a hard-fought campaign to elect Elaine Luria as our 2nd District Congresswoman and Tim Kaine as our returning Senator.</p><p>\n</p><div>\n</div><div>These victrories were a direct result of all the efforts and hard work by each and everyone of you. \nYou richly deserve the accolades and appreciation of us all. Thank you!</div><div><br></div><div>\n</div><div>The Accomack and Northamptom Democratic Committee officers provided great leadership. They coordinated our on the ground phone calling and door knocking efforts with the assistance of paid staffers from the Luria and Kaine campaigns.</div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Tuesday, November 6th was a historic day. It was the day that Eastern Shore Democrats realized the fruits of victory after a hard-fought campaign to elect Elaine Luria as our 2nd District Congresswoman and Tim Kaine as our returning Senator.</p><p>\n</p><div>\n</div><div>These victories were a direct result of all the efforts and hard work by each and everyone of you. \nYou richly deserve the accolades and appreciation of us all. Thank you!</div><div><br></div><div>\n</div><div>The Accomack and Northamptom Democratic Committee officers provided great leadership. They coordinated our on the ground phone calling and door knocking efforts with the assistance of paid staffers from the Luria and Kaine campaigns.</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r9Nfl4NQ3Z",
           "_anchor": "content1-83",
           "_protectedParams": [],
@@ -836,11 +836,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Eastern Shore Post's Coverage of 2018 Mid-Term Elections</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    by: Linda Cicoria, Eastern Shore Post</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r9S5QMrXqh",
+          "_anchor": "content4-8k",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-8k"
+          "_params": {}
         },
         {
           "_styles": {
@@ -854,11 +854,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div>Democrats prevailed in statewide elections Tuesday for U.S. Senate and Congress, according to unofficial results reported by the Virginia Department of Elections. \n<span style=\"font-size: 1rem;\">The results were certified locally but are not scheduled to be confirmed by the state board of elections until Nov. 19.&nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\"></span></div><div>Voters returned Sen. Timothy M. “Tim” Kaine to the post he has been serving since 2013. He beat out challengers Corey A. Stewart, a Republican, and Matt J. Waters, a Libertarian. Voters also selected Elaine G. Luria for Congress over Rep. Scott Taylor. \n</div><div><span style=\"font-size: 1rem;\"><br></span></div><div><span style=\"font-size: 1rem;\">Voting was steady at Eastern Shore polls despite the on and off rain. In Accomack, absentee ballots were up, close to those of a presidential election.&nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">An unofficial tally showed Kaine, (who was also the 70th Virginia governor and 38th lieutenant governor) with 56.87 percent of the votes statewide. Kaine was Hillary Clinton’s running mate in the last presidential election. Stewart received more than 41 percent of the ballots. Waters garnered 1.86 percent. &nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">“I’m going to try to make you proud,” Kaine said in an address to fellow Democrats after winning the election. “I’m going to try to set an example of leadership when God knows we need some good examples … Let’s just live like ‘Virginia is for Lovers’ rather than Virginia is for judgers, or doubters, or haters … you guys sent a powerful message tonight about who we are.”&nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">Stewart, chairman of the Prince William County, Va., Board of Supervisors, got the most votes in Accomack County, nearly 52 percent. Kaine followed with about 47 percent. Waters, a political fundraiser from Hampton Roads, lagged with just over 1 percent.&nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">Kaine took more than 57 percent of the ballots in Northampton, followed by Stewart with nearly 46 percent and Waters with more than 1 percent.&nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">Fifty-one percent of ballot-markers chose Luria, who served for 20 years as a surface warfare officer and nuclear engineer in the Navy. Taylor, the incumbent, received nearly 49 percent of the vote. In Accomack, more than 55 percent of voters picked Taylor. Luria took those votes in Northampton. Luria also won in Hampton City, James City County, Virginia Beach City, Norfolk City, and Williamsburg City. Taylor took Poquoson City and York County.&nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">Voters in Virginia said, “Yes” to the constitutional amendment that asked, Should a county, city, or town provide a partial tax exemption for real property subject to recurrent flooding if flooding resiliency improvements have been made on the property? More than 73 percent in Accomack and more than 67 percent in Northampton agreed.&nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">Voters also gave a nod for the spouse of a veteran, who was totally and permanently disabled, to move to a different primary residence and still get a real estate tax exemption. Accomack agreed with about 83 percent. More than 82 percent in Northampton voted in favor of the amendment.&nbsp;</span></div><div><b><br></b></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r9S5T3Nftx",
+          "_anchor": "content1-8l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-8l"
+          "_params": {}
         },
         {
           "_styles": {
@@ -893,11 +893,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>The newly formed Friends of Eastern Shore Democrats group sponsored a hugely successful vintage political rally to Get Out The Vote (GOTV) on Sunday, Oct. 21st from 1 p.m. at the Mary N. Smith Cultural Enrichment Center located at 24577 Mary N. Smith Road, Accomac, VA 23301. Featured speakers were Sen. Tim Kaine, VA-02 Nominee Elaine Luria, State Sen. Lynwood Lewis and Rep. Bobby Scott.&nbsp;</p><p>We thank Paul and Jane Berge and all of the members of the Rally's Organizing Committee for their efforts in producing such a large spirited turnout!</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r9RYCzh3X8",
+          "_anchor": "content1-8d",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-8d"
+          "_params": {}
         },
         {
           "_styles": {
@@ -942,11 +942,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    \"Have Faith And Keep On Going\"</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Miss Emmy from the Eastern Shore turned 100 this year, and she voted on Tuesday.&nbsp;</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r9S5E77KDO",
+          "_anchor": "content4-8i",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-8i"
+          "_params": {}
         },
         {
           "_styles": {
@@ -973,11 +973,11 @@
           "_name": "video1",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#b2ccd2\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://youtu.be/OqvdMQy1bIE?loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
           "_cid": "r9S5IR1NxZ",
+          "_anchor": "video1-8j",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "video1-8j"
+          "_params": {}
         },
         {
           "_styles": {
