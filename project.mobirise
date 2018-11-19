@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESD Newsletter",
-    "currentPage": "newsletter.html",
+    "currentPage": "october_2018.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4533,7 +4533,7 @@
         }
       ]
     },
-    "page3.html": {
+    "october_2018.html": {
       "settings": {
         "title": "October_2018",
         "meta_descr": "Landing page for the curent ESD Newsletter.",
